@@ -50,9 +50,6 @@ $ hexo g
 
 [![vicogao15githubio.jpg](https://i.postimg.cc/GtxzPKhM/vicogao15githubio.jpg "点击跳转")](https://vicogao15.github.io/)
 
-<img src="https://i.postimg.cc/YSMd1m1S/IMG-20240727-123825.jpg" width="80%"/>
-
-<img src="https://i.postimg.cc/8CJghNZn/DSC04521.jpg" width="80%"/>
 
 
 
