@@ -1,10 +1,10 @@
-本文档介绍如何从零开始利用Hexo生成静态网站，并部署到Github Page中运行。
-文档内容包括：
+本文档介绍如何从零开始利用Hexo生成静态网站，并部署到Github Page中运行。 
 
-**1.本地环境准备  
-2.创建Hexo项目  
-3.部署到Github Page  
-4.使用Gittalk评论**
+文档内容包括：  
+- 本地环境准备  
+- 创建Hexo项目  
+- 部署到Github Page  
+- 使用Gittalk评论
 
 
 ## 本地环境准备
