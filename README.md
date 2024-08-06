@@ -15,19 +15,19 @@
 | Github账号 | 先在Github中注册一个账号，用于托管代码。 | [Github](https://github.com) |
 
 ## 创建Hexo项目
-安装完Nodejs后，安装Hexo-cli：  
+1. 安装完Nodejs后，安装Hexo-cli：  
 ```
 $ npm i -g hexo-cli
 ```
-安装Hexo：  
+2. 安装Hexo：  
 ```
 $ npm i hexo
 ```
-Hexo安装完成后，使用init初始化创建本地Hexo项目
+3. Hexo安装完成后，使用init初始化创建本地Hexo项目
 ```
 $ hexo init <项目名称>
 ```
-使用主题：  
+4. 使用主题：  
 - [1] 下载主题
 - [2] 将下载的主题文件夹拷贝到hexo项目themes目录下
 - [3] 在_config.yml配置文件中将theme修改为主题目录
