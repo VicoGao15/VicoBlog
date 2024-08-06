@@ -8,14 +8,11 @@
 
 
 ## 本地环境准备
-### Git
-Git是版本库管理工具，用于将Hexo代码托管到Github进行管理。
-[下载安装](https://git-scm.com/download/win)
-### NodeJs
-Nodejs是本地运行Hexo的运行库。注意Hexo兼容的Nodejs最高版本。
-[下载地址](https://nodejs.org/zh-cn/download/prebuilt-installer)
-### Github账号
-先在Github中注册一个账号，用于托管代码。
+| Item      | Description | 链接 |
+| ----------- | ----------- | ----------- |
+| Git      | Git是版本库管理工具，用于将Hexo代码托管到Github进行管理。       | [下载安装](https://git-scm.com/download/win)       |
+| NodeJs   | Nodejs是本地运行Hexo的运行库。注意Hexo兼容的Nodejs最高版本。        | [下载地址](https://nodejs.org/zh-cn/download/prebuilt-installer)       |
+| Github账号 | 先在Github中注册一个账号，用于托管代码。 | [Github](https://github.com) |
 
 ## 创建Hexo项目
 安装完Nodejs后，安装Hexo-cli：  
