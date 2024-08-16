@@ -40,4 +40,4 @@ banner: /assets/cover/cover_shantou.jpg
   
 {% endtimeline %}
 
-{% videa https://www.douyin.com/user/self?modal_id=7389272551555468607 %}
+{% videa https://www.bilibili.com/video/BV16i42167Mq/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=fc1109590e6e54c0be3f0ebee3c423df %}
