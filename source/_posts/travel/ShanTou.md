@@ -40,4 +40,4 @@ banner: /assets/cover/cover_shantou.jpg
   
 {% endtimeline %}
 
-{% videa bilibili:BV16i42167Mq %}
+{% video bilibili:BV16i42167Mq %}
