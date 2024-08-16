@@ -4,8 +4,8 @@ title: 樱同学-新手指南
 date: 2024-08-07 13:40:22 
 categories: 
   - 教程
-cover: /assets/cover/cover_ying.jpg
-banner: /assets/cover/cover_ying.jpg
+cover: /assets/cover/cover_ying.png
+banner: /assets/cover/cover_ying.png
 comments: true
 ---
 
