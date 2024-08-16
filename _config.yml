@@ -3,18 +3,20 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: 'VicoGao15的Hexo博客站点'
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+avatar: '/assets/user/vicogao.jpg'
+favicon: '/assets/user/vicogao-circle.png'
+title: 乘风破浪会有时
+subtitle: # 'VicoGao的Hexo博客站点'
+description: '本博客站点发表记录瞬间、旅游日记的文章。'
+keywords: 乘风·VicoGao
+author: VicoGao
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
-permalink: :year/:month/:day/:title/
+url: http://vicoblog.github.io
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -40,7 +42,10 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
+marked:
+  prependRoot: true
+  postAsset: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
@@ -96,9 +101,12 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-stellar
+theme: stellar
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/VicoBlog/vicoblog.github.io
+  branch: main
+  message: hexo d 一键部署
