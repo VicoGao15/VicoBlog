@@ -5,6 +5,7 @@ date: 2024-08-15 13:12:22
 categories: 
   - 教程
 leftbar: ['welcome','ghuser','tagcloud']
+repo: vicogao15/vicoblog
 ---
 {% hashtag 博客搭建 %}
 {% hashtag 教程 %}
@@ -14,18 +15,19 @@ leftbar: ['welcome','ghuser','tagcloud']
 来自2024-8-15年的复盘：已搭建好框架，接下来按照Stellar主题内容进行样式优化，以及后续文章内容的补充 {% emoji tieba 滑稽 %}
 
 <!-- okr kr1 percent:1 -->
-vicoblog.github.io上线
+部署到Github Page
 {% checkbox 在vicogao@126.com/VicoGao15的github账户下创建组织VicoBlog checked:true %}
 {% checkbox VicoBlog组织下创建存放Hexo源码仓库VicoBlog-Hexo-SourceCode checked:true %}
 {% checkbox VicoBlog组织下创建Githbu Page仓库vicoblog.github.io checked:true %}
 {% checkbox 每个组织下都能创建Github Page，这以后就能搭建多个静态博客了，计划给樱同学搭建一个VikyBlog checked:true %}
+- Github Page仓库同名域名访问: vicoblog.github.io
 
 <!-- okr kr2 percent:1 -->
 部署到vercel
 {% checkbox vercel注册 checked:true %}
 {% checkbox vercel关联Github账号 checked:true %}
 {% checkbox 在vercel中导入Github的Hexo源码仓库创建项目，自动部署 checked:true %}
-- 部署后vercel自动分配域名：`{vercel project名称}.vercel.app`
+- 部署后vercel自动分配域名： {vercel project名称}.vercel.app
 
 <!-- okr kr3 percent:0.5 status:unfinished -->
 Hexo配置完善
