@@ -39,3 +39,5 @@ banner: /assets/cover/cover_shantou.jpg
 - 动车回深圳。
   
 {% endtimeline %}
+
+{% videa https://www.douyin.com/user/self?modal_id=7389272551555468607 %}
