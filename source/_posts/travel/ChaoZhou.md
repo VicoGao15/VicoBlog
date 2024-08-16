@@ -109,6 +109,6 @@ banner: /assets/cover/cover_chaozhou.jpg
 {% image /assets/PostImg/ChaoZhou/env/IMG_23.jpg  %}
 {% endswiper %}
 
-{% video /assets/PostImg/ChaoZhou/douyin_videa.mp4 %}
+{% video /assets/PostImg/ChaoZhou/douyin_videa.mp4 width:80% %}
 
 
