@@ -19,6 +19,7 @@ comments:
 base_dir: /wiki/stellar/
 tree:
   '快速开始':
+    - index
   '基本使用':
   '文档系统':
   '进阶玩法':
