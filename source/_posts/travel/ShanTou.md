@@ -41,3 +41,4 @@ banner: /assets/cover/cover_shantou.jpg
 {% endtimeline %}
 
 {% video bilibili:BV16i42167Mq %}
+{% video https://www.douyin.com/user/self?modal_id=7389272551555468607 %}
