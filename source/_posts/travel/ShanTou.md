@@ -4,8 +4,8 @@ title: 汕头-游记
 date: 2024-05-20 20:14:19
 categories:
   - 游记
-cover: /assets/cover/cover_hk.png
-banner: /assets/cover/cover_hk.png
+cover: /assets/cover/cover_shantou.jpg
+banner: /assets/cover/cover_shantou.jpg
 ---
 
 {% timeline %}
