@@ -48,7 +48,7 @@ menubar:
       theme: '#F44336'
       icon: solar:chat-square-like-bold-duotone
       title: 技术
-      url: /technology/
+      url: /wiki/
 
 
 ######## Main ########
