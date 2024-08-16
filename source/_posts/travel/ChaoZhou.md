@@ -71,6 +71,7 @@ banner: /assets/cover/cover_chaozhou.jpg
 {% image /assets/PostImg/ChaoZhou/human/IMG_27.jpg  %}
 {% image /assets/PostImg/ChaoZhou/human/IMG_28.jpg  %}
 {% image /assets/PostImg/ChaoZhou/human/IMG_29.jpg  %}
+{% image /assets/PostImg/ChaoZhou/human/IMG_39.jpg  %}
 {% image /assets/PostImg/ChaoZhou/human/IMG_30.jpg  %}
 {% image /assets/PostImg/ChaoZhou/human/IMG_31.jpg  %}
 {% image /assets/PostImg/ChaoZhou/human/IMG_32.jpg  %}
@@ -100,7 +101,6 @@ banner: /assets/cover/cover_chaozhou.jpg
 {% image /assets/PostImg/ChaoZhou/env/IMG_14.jpg  %}
 {% image /assets/PostImg/ChaoZhou/env/IMG_15.jpg  %}
 {% image /assets/PostImg/ChaoZhou/env/IMG_16.jpg  %}
-{% image /assets/PostImg/ChaoZhou/env/IMG_17.jpg  %}
 {% image /assets/PostImg/ChaoZhou/env/IMG_18.jpg  %}
 {% image /assets/PostImg/ChaoZhou/env/IMG_19.jpg  %}
 {% image /assets/PostImg/ChaoZhou/env/IMG_20.jpg  %}
@@ -109,6 +109,7 @@ banner: /assets/cover/cover_chaozhou.jpg
 {% image /assets/PostImg/ChaoZhou/env/IMG_23.jpg  %}
 {% endswiper %}
 
+{% quot 视频 %}
 {% video /assets/PostImg/ChaoZhou/douyin_videa.mp4 width:80% %}
 
 
