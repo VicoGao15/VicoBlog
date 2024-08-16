@@ -1,5 +1,5 @@
 ---
-wiki: hexo-stellar # 这是项目id，对应 /data/wiki/hexo-stellar.yml
+wiki: hexo-stellar 
 menu_id: tutorial
 title: 博客搭建-目标管理
 date: 2024-08-15 13:12:22 
