@@ -4,7 +4,7 @@ menu_id: notes
 title: 「笔记」
 date: 2024-08-16 16:47:19
 banner: cover/notes.jpg
-banner_info： '在vicoblog/notes仓库中提交issue作为笔记，在此处展示'  
+banner_info: 在vicoblog/notes仓库中提交issue作为笔记，在此处展示  
 comments: false
 beaudar:
     repo: vicoblog/vicoblog-comments
