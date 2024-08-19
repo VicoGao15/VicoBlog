@@ -18,8 +18,4 @@ beaudar:
     branch: main
 ---
 
-{% tabs %}
-<!-- tab 笔记 -->
-{% timeline api:https://api.github.com/repos/vicoblog/notes/issues?direction=asc %}{% endtimeline %}
-<!-- tab VicoBlog评论Issue -->
-{% endtabs %}
+{% timeline api:https://api.github.com/repos/vicoblog/notes/issues %}{% endtimeline %}
