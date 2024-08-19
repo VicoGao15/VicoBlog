@@ -4,13 +4,11 @@ menu_id: notes
 title: notes「笔记」栏目
 date: 2024-08-16 16:47:19
 banner: cover/notes.jpg
-comments: false
+comments: true
 beaudar:
-    repo: vicoblog/notes
+    repo: vicoblog/vicoblog-comments
     issue-term: pathname
-    issue-number:
     theme: preferred-color-scheme
-    label:
     input-position: top # top/bottom 评论框位置
     comment-order: desc # desc 排序
     keep-theme: # true/false
@@ -18,4 +16,11 @@ beaudar:
     branch: main
 ---
 
+{% tabs %}
+<!-- tab 最新10条 -->
+{% timeline api:https://api.github.com/repos/vicoblog/notes/issues&per_page=6 %}{% endtimeline %}
+<!-- tab 最多回顾 -->
+{% timeline api:https://api.github.com/repos/vicoblog/notes/issues&per_page=6&sort=comments %}{% endtimeline %}
+<!-- tab 全部 -->
 {% timeline api:https://api.github.com/repos/vicoblog/notes/issues %}{% endtimeline %}
+{% endtabs %}
