@@ -18,6 +18,9 @@ beaudar:
     branch: main
 ---
 
+{% timeline api:https://api.github.com/repos/vicoblog/notes/issues %}{% endtimeline %}
+
+```
 {% tabs %}
 <!-- tab 最新 -->
 {% timeline api:https://api.github.com/repos/vicoblog/notes/issues?direction=desc&per_page=5 %}{% endtimeline %}
@@ -26,3 +29,4 @@ beaudar:
 <!-- tab 全部 issue -->
 {% timeline api:https://api.github.com/repos/vicoblog/notes/issues %}{% endtimeline %}
 {% endtabs %}
+```
