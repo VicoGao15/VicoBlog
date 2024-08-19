@@ -17,10 +17,6 @@ beaudar:
 ---
 
 {% tabs %}
-<!-- tab 最新10条 -->
-{% timeline api:https://api.github.com/repos/vicoblog/notes/issues&per_page=3 %}{% endtimeline %}
-<!-- tab 最多回顾 -->
-{% timeline api:https://api.github.com/repos/vicoblog/notes/issues&per_page=3&sort=comments %}{% endtimeline %}
 <!-- tab 全部 -->
 {% timeline api:https://api.github.com/repos/vicoblog/notes/issues %}{% endtimeline %}
 {% endtabs %}
