@@ -51,6 +51,7 @@ Stellar主题中有很多好看的组件和相关配置，在VicoBlog中使用
 {% link https://sfzhang.top/blog/2023/10/12/blog-progress Stellar主题添加顶部加载进度条 %}
 {% checkbox 使用文档系统 symbol:times color:red checked:true %}
 {% checkbox 实现「笔记」栏目 checked:true color:green %}
+{% checkbox timeline获取github issue动态数据(REST API速率限制的问题) color:green %}
 
 <!-- okr kr5 percent:0.2 status:unfinished -->
 从有道云笔记中迁移部分笔记到博客
@@ -59,3 +60,4 @@ Stellar主题中有很多好看的组件和相关配置，在VicoBlog中使用
 {% checkbox 其他记录 %}
 
 {% endokr %}
+
