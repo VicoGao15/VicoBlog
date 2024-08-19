@@ -20,7 +20,7 @@ beaudar:
 <!-- tab 全部 -->
 {% timeline api:https://api.github.com/repos/vicoblog/notes/issues: %}{% endtimeline %}
 <!-- tab 最新3条 -->
-{% timeline api:https://api.github.com/repos/vicoblog/notes/issues?direction=desc&per_page=3 %}{% endtimeline %}
+{% timeline api:https://api.github.com/repos/vicoblog/notes/issues?direction=desc&per_page=5 %}{% endtimeline %}
 <!-- tab 最多回顾 -->
-{% timeline api:https://api.github.com/repos/vicoblog/notes/issues?per_page=3&sort=comments %}{% endtimeline %}
+{% timeline api:https://api.github.com/repos/vicoblog/notes/issues?per_page=5&sort=comments %}{% endtimeline %}
 {% endtabs %}
