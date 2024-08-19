@@ -3,18 +3,12 @@ wiki: notes
 menu_id: notes
 title: notes「笔记」栏目
 date: 2024-08-16 16:47:19
+banner: cover/notes.jpg
 ---
 
-🕑1.1 元旦@广州  
-- 72家房客拍摄地 in 客村地铁站站D出口
-广东人的环球影城。  
-所在地点整个拍摄基地不是很大，大概就三四百平，进去看才知道很多拍摄场景都共用一个房间，七十二家大院看起来也很小，电视上看起来很大可能是使用了广角。所有场景都逛了一遍，太平分局-八姑屋-大三元-忠义堂-大院(体验兰姨洗衬)
-- 太古里 - 永庆坊  
-新手机xiaomi14拍照，人像太好看。  
-
-🕝1.20 火炉山-龙洞步行街  
-火炉山爬着没什么意思。
-龙洞步行街却是让我嘴馋，小吃摆摊很多，琳琅满目，我觉得比深圳东门还好。  
-
-🕝1.26 Appeon年会  
-没中奖。玩游戏拿了一个苏泊尔小奶锅，价值70。
+{% tabs %}
+<!-- tab 笔记 -->
+{% timeline api:https://api.github.com/repos/vicoblog/notes/issues %}{% endtimeline %}
+<!-- tab VicoBlog评论Issue -->
+{% timeline api:https://api.github.com/repos/vicoblog/vicoblog-comments/issues?direction=asc %}{% endtimeline %}
+{% endtabs %}
