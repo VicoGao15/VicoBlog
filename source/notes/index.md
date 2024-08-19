@@ -4,7 +4,7 @@ menu_id: notes
 title: notes「笔记」栏目
 date: 2024-08-16 16:47:19
 banner: cover/notes.jpg
-comments: true
+comments: false
 beaudar:
     repo: vicoblog/vicoblog-comments
     issue-term: pathname
@@ -16,7 +16,6 @@ beaudar:
     branch: main
 ---
 
-{% tabs %}
-<!-- tab 全部 -->
+
 {% timeline api:https://api.github.com/repos/vicoblog/notes/issues %}{% endtimeline %}
-{% endtabs %}
+
