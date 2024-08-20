@@ -613,7 +613,7 @@ style:
   leftbar:
     # 可以设置：纯色/渐变色/图片作为背景
     # background: var(--leftbar-bg)
-    background-image: url(/assets/background/leftbar.jpg)
+    background-image: url(/assets/background/leftbar.png)
     blur-px: 100px
     blur-bg: var(--alpha60)
   paginator:
