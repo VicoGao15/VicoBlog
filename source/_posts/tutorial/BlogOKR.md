@@ -26,10 +26,19 @@ repo: vicogao15/vicoblog
 部署到vercel
 {% checkbox vercel注册 checked:true %}
 {% checkbox vercel关联Github账号 checked:true %}
-{% checkbox 在vercel中导入Github的Hexo源码仓库创建项目，自动部署 checked:true %}
+{% checkbox 在vercel中导入Github的Hexo源码仓库创建项目，识别commit，自动构建部署 checked:true %}
 - 部署后vercel自动分配域名： {vercel project名称}.vercel.app
+- **国内被墙，需要翻墙访问**
 
-<!-- okr kr3 percent:0.5 status:unfinished -->
+<!-- okr kr3 percent:1 -->
+部署到netlify
+{% checkbox netlify关联Github账号 checked:true %}
+{% checkbox 在netlify中导入Github的Hexo源码仓库创建项目，识别commit，自动构建部署 checked:true %}
+- 部署后netlify自动生成Site name，访问域名： {Site name}.vercel.app
+- 可修改Site name
+- **没有被墙，国内访问速度还不错**
+
+<!-- okr kr4 percent:0.5 status:unfinished -->
 Hexo配置完善
 {% checkbox Hexo使用Stellar主题 checked:true %}
 {% checkbox Hexo图片显示，hexo-renderer-marked插件 checked:true %}
@@ -38,7 +47,7 @@ Hexo配置完善
 {% checkbox 修改文章默认url( _config.yml中设置 permalink: :title/ )，之后生成文章的 url 中就没有日期了 checked:true %}
 {% checkbox 侧边栏背景图片 %}
 
-<!-- okr kr4 percent:0.4 status:unfinished -->
+<!-- okr kr5 percent:0.4 status:unfinished -->
 Stellar主题中有很多好看的组件和相关配置，在VicoBlog中使用
 {% checkbox 使用评论组件：Beaudar checked:true color:green %}
 {% checkbox 使用timeline时间线组件 checked:true color:green %}
@@ -53,7 +62,7 @@ Stellar主题中有很多好看的组件和相关配置，在VicoBlog中使用
 {% checkbox 实现「笔记」栏目 checked:true color:green %}
 {% checkbox timeline获取github issue动态数据(REST API速率限制的问题) color:green %}
 
-<!-- okr kr5 percent:0.2 status:unfinished -->
+<!-- okr kr6 percent:0.2 status:unfinished -->
 从有道云笔记中迁移部分笔记到博客
 {% checkbox 各城市的游玩攻略、总结 %}
 {% checkbox 日记 %}
