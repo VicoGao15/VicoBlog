@@ -16,6 +16,7 @@ beaudar:
     keep-theme: # true/false
     loading: false
     branch: main
+repo: vicoblog/notes
 ---
 
 {% timeline api:https://api.github.com/repos/vicoblog/notes/issues?direction=desc&per_page=8 %}{% endtimeline %}
