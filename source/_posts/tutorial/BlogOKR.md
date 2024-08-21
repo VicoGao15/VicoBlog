@@ -27,15 +27,15 @@ repo: vicogao15/vicoblog
 {% checkbox vercel注册 checked:true %}
 {% checkbox vercel关联Github账号 checked:true %}
 {% checkbox 在vercel中导入Github的Hexo源码仓库创建项目，识别commit，自动构建部署 checked:true %}
-部署后vercel自动分配域名： {vercel project名称}.vercel.app  
-{% note color:red 国内被墙，需要翻墙访问 %}
+部署后vercel自动分配域名： {vercel project名称}.vercel.app{% emoji blobcat blobcatcomftears %}
+{% note color:red 国内被墙，需要翻墙访问!!! %}
 
 <!-- okr kr3 percent:1 -->
 部署到netlify
 {% checkbox netlify关联Github账号 checked:true %}
 {% checkbox 在netlify中导入Github的Hexo源码仓库创建项目，识别commit，自动构建部署 checked:true %}
-部署后netlify自动生成sitename，访问域名：{sitename}.vercel.app  
-可随时手动修改Sitename，改变访问域名  
+- 部署后netlify自动生成sitename，访问域名：{sitename}.vercel.app;    
+- 可随时手动修改Sitename，改变访问域名;  
 {% note color:blue 没有被墙，国内访问速度还不错 %}
 最佳推荐 {% emoji blobcat ablobcatattentionreverse %}
 
