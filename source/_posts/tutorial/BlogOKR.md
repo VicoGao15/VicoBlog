@@ -25,13 +25,12 @@ repo: vicogao15/vicoblog
 {% emoji blobcat blobcatthink%}
 
 <!-- okr kr2 percent:1 -->
-部署到vercel
+部署到vercel {% emoji blobcat blobcatcomftears %}
 {% checkbox vercel注册 checked:true %}
 {% checkbox vercel关联Github账号 checked:true %}
 {% checkbox 在vercel中导入Github的Hexo源码仓库创建项目，识别commit，自动构建部署 checked:true %}
-{% radio checked:true 部署后vercel自动分配域名： {vercel project名称}.vercel.app %}
+部署后vercel自动分配域名： {vercel project名称}.vercel.app
 {% note color:red 国内被墙，需要翻墙访问!!! %}
-{% emoji blobcat blobcatcomftears %}
 
 <!-- okr kr3 percent:1 -->
 部署到netlify 
