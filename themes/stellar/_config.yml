@@ -44,11 +44,11 @@ menubar:
       icon: solar:planet-bold-duotone
       title: 日记
       url: /notes/
-    - id: technology
+    - id: log
       theme: '#F44336'
       icon: solar:chat-square-like-bold-duotone
-      title: 技术
-      url: /wiki/
+      title: 记录
+      url: /log/
 
 
 ######## Main ########
