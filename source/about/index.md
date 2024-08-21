@@ -3,6 +3,8 @@ menu_id: about
 title: 「About」
 date: 2024-08-21 10:50:19
 banner: /assets/cover/cover_about.jpg
+banner_info: 
+    subtitle: 梦想仗剑走天涯
 comments: true
 ---
 
