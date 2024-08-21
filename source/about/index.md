@@ -3,7 +3,7 @@ menu_id: about
 title: 「About」
 date: 2024-08-21 10:50:19
 banner: /assets/cover/cover_about.jpg
-comments: false
+comments: true
 ---
 
 {% paper style:underline author:VicoGao·乘风 %}
