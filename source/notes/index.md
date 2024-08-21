@@ -18,12 +18,14 @@ beaudar:
     branch: main
 ---
 
-{% timeline api:https://api.github.com/repos/vicoblog/notes/issues %}{% endtimeline %}
+{% timeline api:https://api.github.com/repos/vicoblog/notes/issues?direction=desc&per_page=8 %}{% endtimeline %}
+
+{% timeline api:https://api.github.com/repos/vicoblog/notes/issues/6 %}{% endtimeline %}
 
 ```
 {% tabs %}
 <!-- tab 最新 -->
-{% timeline api:https://api.github.com/repos/vicoblog/notes/issues?direction=desc&per_page=5 %}{% endtimeline %}
+{% timeline api:https://api.github.com/repos/vicoblog/notes/issues?direction=desc&per_page=15 %}{% endtimeline %}
 <!-- tab 最多评论 -->
 {% timeline api:https://api.github.com/repos/vicoblog/notes/issues?per_page=5&sort=comments %}{% endtimeline %}
 <!-- tab 全部 issue -->
