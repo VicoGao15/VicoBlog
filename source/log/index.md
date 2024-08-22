@@ -6,7 +6,7 @@ date: 2024-08-21 10:38:19
 banner: /assets/cover/cover_okr.jpg
 banner_info: 
     subtitle: 博客搭建-目标管理
-comments: false
+comments: true
 ---
 
 {% hashtag 博客搭建 %}
