@@ -3,7 +3,7 @@ wiki: notes
 menu_id: notes
 title: 「笔记」
 date: 2024-08-16 16:47:19
-banner: cover/notes.jpg
+banner: /assets/cover/cover_notes.jpg
 banner_info: 
     subtitle: 在vicoblog/notes仓库中提交issue作为笔记，在此处展示  
 comments: true
@@ -20,14 +20,3 @@ repo: vicoblog/notes
 ---
 
 {% timeline api:https://api.github.com/repos/vicoblog/notes/issues?direction=desc&per_page=10 %}{% endtimeline %}
-
-```
-{% tabs %}
-<!-- tab 最新 -->
-{% timeline api:https://api.github.com/repos/vicoblog/notes/issues?direction=desc&per_page=15 %}{% endtimeline %}
-<!-- tab 最多评论 -->
-{% timeline api:https://api.github.com/repos/vicoblog/notes/issues?per_page=5&sort=comments %}{% endtimeline %}
-<!-- tab 全部 issue -->
-{% timeline api:https://api.github.com/repos/vicoblog/notes/issues %}{% endtimeline %}
-{% endtabs %}
-```
