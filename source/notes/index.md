@@ -19,4 +19,10 @@ beaudar:
 repo: vicoblog/notes
 ---
 
-{% timeline api:https://api.github.com/repos/vicoblog/notes/issues?direction=desc&per_page=10 %}{% endtimeline %}
+{% tabs %}
+<!-- tab 日常笔记 -->
+{% timeline api:https://api.github.com/repos/vicoblog/notes/issues?per_page=10&labels=note %}{% endtimeline %}
+<!-- tab 技术笔记 -->
+{% timeline api:https://api.github.com/repos/vicoblog/notes/issues?per_page=10&labels=technology %}{% endtimeline %}
+{% endtabs %}
+
