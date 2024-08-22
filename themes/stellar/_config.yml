@@ -576,7 +576,7 @@ style:
     codeblock: 0.8125rem # 13px
   font-family:
     logo: 'system-ui, "Microsoft Yahei", "Segoe UI", -apple-system, Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif'
-    body: '"Noto Sans SC", "Microsoft Yahei", sans-serif'
+    body: '"Noto Serif SC", "Microsoft Yahei", sans-serif'
     code: 'Consolas'
     codeblock: 'Consolas'
   text-align: left
@@ -644,6 +644,6 @@ api_host:
 inject:
   head:
     - <link rel="stylesheet" href="/customize/css/pace.css"> # 网站进度条加载
-    - <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC&display=swap" rel="stylesheet">
+    - <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap" rel="stylesheet">
   script:
     - <script type="text/javascript" src="/customize/js/pace.min.js"></script> # 网站进度条加载
