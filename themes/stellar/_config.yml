@@ -320,7 +320,6 @@ footer:
       onclick: 'switchTheme()'
   sitemap:
     '博客':
-      - '[近期](/)'
       - '[分类](/categories)'
       - '[标签](/tags)'
       - '[归档](/archives)'
@@ -332,10 +331,13 @@ footer:
       - '[项目源码](https://github.com/VicoGao15/VicoBlog)'
       - '[评论项目](https://github.com/VicoGao15/VicoBlog-Comments)'
       - '[日记图床](https://github.com/VicoGao15/Notes)'
-    '相关链接':
+    '文档部署':
       - '[Stellar文档](https://xaoxuu.com/wiki/stellar/#start)'
       - '[Netlify](https://app.netlify.com/teams/vicogao15/sites)'
       - '[Vercel](https://vercel.com/vicogaos-projects)'
+    '友链':
+      - '[Vercel-VicoBlog](https://vicoblog.vercel.app/)'
+      - '[GithubPage-VicoBlog](https://vicoblog.github.io/)'
       - '[VickyBlog](https://vickysite.netlify.app/)'
   content: | # 支持 Markdown 格式
     落霞与孤鹜齐飞，秋水共长天一色。
