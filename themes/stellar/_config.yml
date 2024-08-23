@@ -325,13 +325,13 @@ footer:
       - '[标签](/tags)'
       - '[归档](/archives)'
     '本站':
-      - '[文档](/)'
+      - '[Wiki文档](/)'
       - '[关于本站](/about)'
       - '[日记记录](/notes)'
       - '[建站记录](/log)'
     '文档部署':
       - '[Hexo](https://hexo.io)'
-      - '[Stellar文档](https://xaoxuu.com/wiki/stellar/#start)'
+      - '[Stellar](https://xaoxuu.com/wiki/stellar/#start)'
       - '[Netlify](https://app.netlify.com/teams/vicogao15/sites)'
       - '[Vercel](https://vercel.com/vicogaos-projects)'
     'Github项目':
