@@ -1,5 +1,5 @@
 ---
-wiki: notes
+wiki: 日记
 menu_id: note
 title: 《年后遗症》
 date: 2024-02-26 10:14:19
