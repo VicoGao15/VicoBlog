@@ -1,15 +1,15 @@
-name: Document
-title: 文档记录 - 我的独立文档系统
-subtitle: '我的独立文档系统 | Designed by VicoGao'
+name: Travel
+title: 游记 - 我的游玩日记
+subtitle: '我的游玩日记 | Designed by VicoGao'
 tags: 文档
 icon: /assets/wiki/doc/icon.svg
 cover: /assets/wiki/doc/icon.svg
 coverpage: true # 默认是 false
-description: 此文档用于记录Hexo博客搭建过程记录
+description: 此文档用于记录旅游、游玩的日记或者攻略
 repo: vicogao15/vicoblog
 search:
-  filter: /wiki/doc/
-  placeholder: 在 doc 中搜索...
+  filter: /wiki/trevel/
+  placeholder: 在 travel 中搜索...
 leftbar: 
   - tree
   - timeline_stellar_releases
@@ -19,7 +19,7 @@ comments:
   service: beaudar
   beaudar:
     data-repo: vicoblog/vicoblog-comments
-base_dir: /wiki/doc/
+base_dir: /wiki/travel/
 tree:
   '快速开始':
     - index
