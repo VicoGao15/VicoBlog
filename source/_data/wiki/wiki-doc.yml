@@ -1,10 +1,10 @@
 name: Document
 title: 文档记录 - 我的独立文档系统
 subtitle: '我的独立文档系统 | Designed by VicoGao'
-tags: 博客主题
-icon: /assets/wiki/stellar/icon.svg
-cover: /assets/wiki/stellar/icon.svg
-description: Stellar 是一个内置文档系统的简约商务风 Hexo 主题，支持丰富的标签和动态数据组件。
+tags: 文档
+icon: /assets/wiki/doc/icon.svg
+cover: /assets/wiki/doc/icon.svg
+description: 此文档用于记录Hexo博客搭建过程记录
 repo: vicogao15/vicoblog
 search:
   filter: /wiki/doc/
@@ -13,7 +13,7 @@ leftbar:
   - tree
   - timeline_stellar_releases
   - related
-comment_title: '评论区仅供交流，有问题请提 [issue](https://github.com/xaoxuu/hexo-theme-stellar/issues) 反馈。'
+comment_title: '评论区仅供交流，有问题请提 [issue](https://github.com/vicoblog/vicoblog-comments/issues) 反馈。'
 comments:
   service: beaudar
   beaudar:
