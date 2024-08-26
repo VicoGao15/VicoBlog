@@ -61,7 +61,7 @@ Stellar主题中有很多好看的组件和相关配置，在VicoBlog中使用
 {% checkbox 左侧小组件的使用(Github用户信息、标签云) color:green checked:true %}
 {% checkbox 文章分类管理menu_id symbol:times color:red checked:true %}
 {% checkbox 更改主题字体 color:green checked:true %}
-{% checkbox 添加顶部加载精度条 symbol:times color:red checked:true %}
+{% checkbox 添加顶部加载精度条 color:green checked:true %}
 {% link https://sfzhang.top/blog/2023/10/12/blog-progress Stellar主题添加顶部加载进度条 %}
 {% checkbox 使用文档系统 symbol:times color:red checked:true %}
 {% checkbox 实现「笔记」栏目 checked:true color:green %}
