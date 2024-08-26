@@ -29,7 +29,7 @@ logo:
 menubar:
   columns: 4 # 一行多少个
   items: # 可按照自己需求增加，符合以下格式即可
-    - id: tutorial # 页面中高亮的 menu_id
+    - id: wiki # 页面中高亮的 menu_id
       theme: '#1BCDFC' # 高亮时的颜色，仅 svg 中 fill="currentColor" 时有效
       icon: solar:documents-bold-duotone # 支持 svg/img 标签，可以定义在 icons.yml 文件中，也支持外部图片的 URL
       title: 全部文章 # 标题
