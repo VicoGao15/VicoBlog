@@ -11,6 +11,7 @@ comments: true
 
 {% hashtag 博客搭建 %}
 {% hashtag 教程 %}
+spck 测试。
 
 {% okr 目标 %}
 2024年的小目标：完善 VicoBlog
