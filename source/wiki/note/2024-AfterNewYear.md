@@ -1,10 +1,7 @@
 ---
-wiki: 日记
-menu_id: note
+layout: wiki  # 使用wiki布局模板
+wiki: wiki-note
 title: 《年后遗症》
-date: 2024-02-26 10:14:19
-categories:
-  - 日记
 --- 
 
 {% poetry 年后遗症 author:乘风 footer:诗词创作 %}
