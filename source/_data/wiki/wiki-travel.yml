@@ -2,8 +2,8 @@ name: Travel
 title: 游记 - 我的游玩日记
 subtitle: '我的游玩日记 | Designed by VicoGao'
 tags: 游记
-icon: /assets/wiki/doc/icon.svg
-cover: /assets/wiki/doc/icon.svg
+icon: /assets/wiki/travel/icon.svg
+cover: /assets/wiki/travel/icon.svg
 coverpage: true # 默认是 false
 description: 此文档用于记录旅游、游玩的日记或者攻略
 repo: vicogao15/vicoblog

@@ -2,8 +2,8 @@ name: Note
 title: 日记记录 - 我的个人日记
 subtitle: '我的个人日记 | Designed by VicoGao'
 tags: 日记
-icon: /assets/wiki/doc/icon.svg
-cover: /assets/wiki/doc/icon.svg
+icon: /assets/wiki/note/icon.svg
+cover: /assets/wiki/note/icon.svg
 coverpage: true # 默认是 false
 description: 此文档用于记录2024年日记记录
 repo: vicogao15/vicoblog
@@ -23,6 +23,7 @@ base_dir: /wiki/note/
 tree:
   '快速开始':
     - index
+  '每月记录':
     - 2024-1
     - 2024-2
     - 2024-3
@@ -31,4 +32,5 @@ tree:
     - 2024-6
     - 2024-7
     - 2024-8
+  '特别记录':
     - 2024-AfterNewYear
