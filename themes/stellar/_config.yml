@@ -650,7 +650,7 @@ api_host:
 # 自定义引入css,js
 inject:
   head:
-    - <link rel="stylesheet" href="/customize/css/pace.css"> # 网站进度条加载
+    - <link rel="stylesheet" href="/customize/pace.css"> # 网站进度条加载
     - <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap" rel="stylesheet">
   script:
-    - <script type="text/javascript" src="/customize/js/pace.min.js"></script> # 网站进度条加载
+    - <script type="text/javascript" src="/customize/pace.min.js"></script> # 网站进度条加载

@@ -37,7 +37,7 @@ comments: true
 部署到netlify {% emoji blobcat ablobcatattentionreverse %}
 {% checkbox netlify关联Github账号 checked:true %}
 {% checkbox 在netlify中导入Github的Hexo源码仓库创建项目，识别commit，自动构建部署 checked:true %}
-{% radio checked:true 部署后netlify自动生成Site name，访问域名：{Site name}.vercel.app %}
+{% radio checked:true 部署后netlify自动生成Site name，访问域名：{Site name}.netlify.app %}
 {% radio checked:true 可随时手动修改Site name，改变访问域名 %}
 {% note color:blue 没有被墙，国内访问速度还不错 %}
 最佳推荐!
