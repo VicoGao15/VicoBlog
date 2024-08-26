@@ -1,7 +1,7 @@
 name: Document
-title: 文档记录 - 我的独立文档系统
+title: 教程记录 - 我的独立教程文档系统
 subtitle: '我的独立文档系统 | Designed by VicoGao'
-tags: 文档
+tags: 教程
 icon: /assets/wiki/doc/icon.svg
 cover: /assets/wiki/doc/icon.svg
 coverpage: true # 默认是 false
