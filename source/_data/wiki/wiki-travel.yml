@@ -1,7 +1,7 @@
 name: Travel
 title: 游记 - 我的游玩日记
 subtitle: '我的游玩日记 | Designed by VicoGao'
-tags: 文档
+tags: 游记
 icon: /assets/wiki/doc/icon.svg
 cover: /assets/wiki/doc/icon.svg
 coverpage: true # 默认是 false
