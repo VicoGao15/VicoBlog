@@ -49,7 +49,7 @@ Hexo配置完善
 {% checkbox hexo deploy 一键部署配置 checked:true %}
 {% checkbox 左上角图标与网站icon checked:true %}
 {% checkbox 修改文章默认url( _config.yml中设置 permalink: :title/ )，之后生成文章的 url 中就没有日期了 checked:true %}
-{% checkbox 侧边栏背景图片 %}
+{% checkbox 侧边栏背景图片 checked:true %}
 
 <!-- okr kr5 percent:0.4 status:unfinished -->
 Stellar主题中有很多好看的组件和相关配置，在VicoBlog中使用
