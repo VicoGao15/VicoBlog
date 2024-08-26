@@ -18,11 +18,11 @@ beaudar:
     branch: main
 repo: vicoblog/notes
 ---
-
+https://api.github.com/repos/vicoblog/notes/issues?accept=%27Bearer%20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%27
 {% tabs %}
 <!-- tab 日常笔记 -->
-{% timeline api:https://api.github.com/repos/vicoblog/notes/issues?per_page=10&labels=note %}{% endtimeline %}
+{% timeline api:https://api.github.com/repos/vicoblog/notes/issues?per_page=10&labels=note&accept=%27Bearer%20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%27 %}{% endtimeline %}
 <!-- tab 技术笔记 -->
-{% timeline api:https://api.github.com/repos/vicoblog/notes/issues?per_page=10&labels=technology %}{% endtimeline %}
+{% timeline api:https://api.github.com/repos/vicoblog/notes/issues?per_page=10&labels=technology&accept=%27Bearer%20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%27 %}{% endtimeline %}
 {% endtabs %}
 
