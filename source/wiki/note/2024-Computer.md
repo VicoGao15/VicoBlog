@@ -2,6 +2,7 @@
 layout: wiki  # 使用wiki布局模板
 wiki: wiki-note
 title: 台式机配置单
+banner: /assets/cover/computer.jpg
 --- 
 `创建日期: 2024.6.03`
 

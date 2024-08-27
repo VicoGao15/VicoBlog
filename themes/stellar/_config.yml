@@ -325,10 +325,9 @@ footer:
       - '[标签](/tags)'
       - '[归档](/archives)'
     '本站':
-      - '[Wiki文档](/)'
-      - '[关于本站](/about)'
-      - '[日记记录](/notes)'
+      - '[Wiki文档](/wiki)'
       - '[建站记录](/log)'
+      - '[关于本站](/about)'
     '文档部署':
       - '[Hexo](https://hexo.io)'
       - '[Stellar](https://xaoxuu.com/wiki/stellar/#start)'
