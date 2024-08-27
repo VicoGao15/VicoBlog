@@ -1,5 +1,7 @@
 ---
-menu_id: tutorial
+layout: wiki  # 使用wiki布局模板
+wiki: hexo_stellar # 这是项目名
+menu_id: wiki
 title: Hexo环境准备和快速建站
 date: 2024-08-06 20:04:22
 tags: 

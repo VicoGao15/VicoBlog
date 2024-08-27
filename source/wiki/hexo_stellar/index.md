@@ -1,6 +1,7 @@
 ---
 layout: wiki  # 使用wiki布局模板
 wiki: hexo_stellar # 这是项目名
+menu_id: wiki
 title: Hexo + Stellar 教程文档 # 这是标题名称
 ---
 

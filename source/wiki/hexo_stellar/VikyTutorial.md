@@ -1,5 +1,7 @@
 ---
-menu_id: tutorial
+layout: wiki  # 使用wiki布局模板
+wiki: hexo_stellar # 这是项目名
+menu_id: wiki
 title: 樱同学-新手指南
 date: 2024-08-07 13:40:22 
 categories: 
