@@ -20,10 +20,10 @@ Hexo是一个框架，编辑Markdown语言编写文章，通过他的内部命�
 Markdown 是一种轻量级的标记语言，可用于在纯文本文档中添加格式化元素。文本内容存储在带有 .md 或 .markdown 扩展名的纯文本文件中
 ### Markdown 语法
 **基本语法**：  
-![基本语法](markdown_base.png)
+![基本语法](/assets/Postimg/VikyTutorial/markdown_base.png)
 
 **扩展语法**：  
-![扩展语法](markdown_extend.png)
+![扩展语法](/assets/Postimg/VikyTutorial/markdown_extend.png)
 ### Github Page是什么？
 GitHub Pages 是 GitHub 提供给用户用来展示个人或者项目主页的静态网页系统。也就是说我们可以把项目代码写好后上传 GitHub，然后利用 GitHub Pages 为这个项目生成一个静态页面，别人通过网址可以访问我们的页面。Github Pages 只能托管静态站点。
 ### Github 是什么？

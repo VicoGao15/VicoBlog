@@ -23,3 +23,8 @@ base_dir: /wiki/hexo_stellar/
 tree:
   '快速开始':
     - index
+    - VikyTutorial
+    - HexoQuickStart
+    - HexoTutorial
+    - ImageHosting
+  
