@@ -23,25 +23,3 @@ base_dir: /wiki/travel/
 tree:
   '快速开始':
     - index
-    - examples
-    - releases
-  '基本使用':
-    - theme-settings
-    - pages
-    - sidebar
-    - tag-plugins
-    - tag-plugins/express
-    - tag-plugins/data
-    - tag-plugins/container
-    - comments
-  '文档系统':
-    - wiki-settings
-  '进阶玩法':
-    - widgets
-    - advanced-settings
-    - notes
-    - fcircle
-  '技术支持':
-    - articles
-    - todo
-    - contributors
