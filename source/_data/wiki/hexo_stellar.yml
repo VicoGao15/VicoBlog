@@ -1,0 +1,25 @@
+name: Hexo + Stellar
+title: Hexo - Stellar 建站教程文档
+subtitle: '我的独立文档系统 | Designed by VicoGao'
+tags: 教程
+icon: /assets/wiki/hexo_stellar/hexo.svg
+cover: /assets/wiki/hexo_stellar/stellar.svg
+coverpage: true # 默认是 false
+description: 此文档用于记录Hexo博客搭建过程记录
+repo: vicogao15/vicoblog
+search:
+  filter: /wiki/hexo_stellar/
+  placeholder: 在 hexo_stellar 中搜索...
+leftbar: 
+  - tree
+  - timeline_stellar_releases
+  - related
+comment_title: '评论区仅供交流，有问题请提 [issue](https://github.com/vicoblog/vicoblog-comments/issues) 反馈。'
+comments:
+  service: beaudar
+  beaudar:
+    data-repo: vicoblog/vicoblog-comments
+base_dir: /wiki/hexo_stellar/
+tree:
+  '快速开始':
+    - index
