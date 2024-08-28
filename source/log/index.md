@@ -66,6 +66,7 @@ Stellar主题中有很多好看的组件和相关配置，在VicoBlog中使用
 {% checkbox 使用文档系统 symbol:times color:red checked:true %}
 {% checkbox 实现「笔记」栏目 checked:true color:green %}
 {% checkbox timeline获取github issue动态数据(REST API速率限制的问题) checked:true color:green %}
+{% checkbox 页脚添加运行时间 checked:true color:green %}
 
 <!-- okr kr6 percent:0.2 status:unfinished -->
 从有道云笔记中迁移部分笔记到博客
