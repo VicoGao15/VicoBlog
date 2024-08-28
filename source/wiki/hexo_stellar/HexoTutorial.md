@@ -60,8 +60,6 @@ $ hexo g
 在项目目录下就会生成publish文件夹，publish文件夹的内容就是静态网站，将这些内容上传到Github仓库 *[github账号用户名].github.io*， 就可以访问了。
 
 
-{% link https://vicoblog.netlify.app %}
-
 
 
 

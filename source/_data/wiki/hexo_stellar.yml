@@ -23,9 +23,11 @@ base_dir: /wiki/hexo_stellar/
 tree:
   '快速开始':
     - index
-    - VikyTutorial
     - StellarBeauty
     - HexoQuickStart
     - HexoTutorial
+  '樱同学文档':
+    - VikyTutorial
+  '其他':
     - ImageHosting
   
