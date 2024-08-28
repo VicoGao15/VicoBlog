@@ -29,8 +29,8 @@ comments: true
 分别按顺序执行如下命令，将本地新建的文章文件上传到云端
 {% copy git add * prefix:$ %}
 {% copy git commit -m "提交更新内容，可自定义填写" prefix:$ %}
+{% copy git push prefix:$ %}  
 - 注意自定义内容有引号：`git commit -m '提交更新内容，可自定义填写'`
-{% copy git push prefix:$ %}
 
 {% endtimeline %}
 
