@@ -341,6 +341,29 @@ footer:
   content: | # 支持 Markdown 格式
     落霞与孤鹜齐飞，秋水共长天一色。
     本站由 **[{author.name}](https://github.com/VicoGao15)** 使用 **[{theme.name} {theme.version}]({theme.tree})** 主题创建。
+    <center>
+    </br>
+    </br>
+    <script type="text/javascript">
+    function show_runtime() {
+        window.setTimeout("show_runtime()", 1000);
+        X = new Date("8/15/2024 00:00:00");
+        Y = new Date();
+        T = (Y.getTime() - X.getTime());
+        M = 24 * 60 * 60 * 1000;
+        a = T / M;
+        A = Math.floor(a);
+        b = (a - A) * 24;
+        B = Math.floor(b);
+        c = (b - B) * 60;
+        C = Math.floor((b - B) * 60);
+        D = Math.floor((c - C) * 60);
+        runtime_span.innerHTML = "⏲️本站已运行 " + A + "天|" + B + "小时|" + C + "分|" + D + "秒⏲️"
+    }
+    show_runtime();
+    </script>
+    <span id="runtime_span"></span>
+    </center>
   # 主题用户越多，开发者维护和更新的积极性就越高，如果您喜欢本主题，请在适当的位置显示主题信息和仓库链接以表支持。
 
 
