@@ -30,7 +30,7 @@ comments: true
 {% copy git add * prefix:$ %}
 {% copy git commit -m "提交更新内容，可自定义填写" prefix:$ %}
 {% copy git push prefix:$ %}  
-- 注意自定义内容有引号：`git commit -m '提交更新内容，可自定义填写'`
+> 注意自定义内容有引号：`git commit -m '提交更新内容，可自定义填写'`
 
 {% endtimeline %}
 
