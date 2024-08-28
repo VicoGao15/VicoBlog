@@ -27,8 +27,8 @@ comments: true
 会显示 add: 日记.md
 <!-- node 第六步 -->
 分别按顺序执行如下命令，将本地新建的文章文件上传到云端
-{% copy git add * prefix:\VickyBlog> %}
-{% copy git commit -m "提交更新内容，可自定义填写" prefix:\VickyBlog> %}
+{% copy git add * prefix:\VickyBlog> width: 500px%}
+{% copy git commit -m "提交更新内容，可自定义填写" prefix:\VickyBlog> width:100% %}
 {% copy git push prefix:\VickyBlog> %}  
 
 > 注意自定义内容有引号：git commit -m '提交更新内容，可自定义填写'
