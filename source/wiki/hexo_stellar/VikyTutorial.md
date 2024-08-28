@@ -4,14 +4,35 @@ wiki: hexo_stellar # 这是项目名
 menu_id: wiki
 title: 樱同学-新手指南
 date: 2024-08-07 13:40:22 
-categories: 
-  - 教程
 cover: /assets/cover/cover_ying.png
 banner: /assets/cover/cover_ying.png
 comments: true
 ---
 
-本文旨在列举搭建个人站点的一些概念点，时刻翻阅了解其是什么，工作原理是什么。
+### 部署流程
+{% timeline %}
+<!-- node 第一步 -->
+打开软件`Visual Studio`，点击左上角菜单`File`->`Open Folder`，选择打开项目所在文件夹VickyBlog
+<!-- node 第二步 -->
+点击左上角菜单`Terminal`->`New Terminal`，打开一个命令行窗口在底部
+<!-- node 第三步 -->
+执行如下命令，更新云端代码同步到本地(不同步的话，提交更新会有冲突)
+{% copy git pull %}
+<!-- node 第四步 -->
+在项目的`source/_post`文件夹下创建一个md格式文件，如`日记.md`，在日记.md文件中编辑文章内容，ctrl+s保存
+<!-- node 第五步 -->
+执行如下命令，查看本地文件与云端文件的差别
+{% copy git status %}
+会显示 add: 日记.md
+<!-- node 第六步 -->
+分别按顺序执行如下命令，将本地新建的文章文件上传到云端
+{% copy git add * %}
+{% copy git commit -m '提交更新内容，可自定义填写' %}
+{% copy git push %}
+
+{% endtimeline %}
+
+{% note color:blue 以下内容旨在列举搭建个人站点的一些概念点，时刻翻阅了解其是什么，工作原理是什么。 %}
 ### Hexo 是什么？
 [文档原文：](https://hexo.io/zh-cn/docs/)  
 > Hexo 是一个快速、简洁且高效的博客框架。 Hexo 使用 Markdown（或其他标记语言）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。
@@ -32,3 +53,4 @@ GitHub Pages 是 GitHub 提供给用户用来展示个人或者项目主页的�
 GitHub 是全球知名的代码开源平台。可以上传自己的代码到平台进行托管。
 ### Visual Studio Code 是什么？
 一款非常好用的文本编辑器。
+
