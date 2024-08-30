@@ -2,7 +2,7 @@
 layout: wiki  # 使用wiki布局模板
 wiki: wiki-travel # 这是项目名
 title: 新疆旅游-前期准备工作 # 这是标题名称
-banner: /assets/cover/cover_okr.jpg
+banner: /assets/cover/gogogo.jpg
 ---
 
 {% link https://vicoblog-imgbed.netlify.app/ShareFile/阿勒泰喀纳斯天池吐鲁番双飞8日.pdf 金染阿勒泰·童画喀纳斯天池吐鲁番双飞 8天  %}
@@ -39,6 +39,7 @@ banner: /assets/cover/cover_okr.jpg
 <!-- folder 其他 -->
 - 望远镜  
 - 纸巾
+- U型枕
 {% endfolders %}
 
 ### 路线
@@ -46,6 +47,9 @@ banner: /assets/cover/cover_okr.jpg
 {% image /assets/PostImg/XinJiang_Before/xianlu.png %}
 {% image /assets/PostImg/XinJiang_Before/xianlu1.png %}
 {% endswiper %}
+
+### 气温环境
+
 
 ### 既定目标
 {% okr 目标 %}
@@ -57,8 +61,13 @@ banner: /assets/cover/cover_okr.jpg
 {% checkbox 每个地方购买纪念品 %}
 {% checkbox 收集机票，门票等纪念性物品 %}
 
-<!-- okr kr1 percent:0 -->
+<!-- okr kr2 percent:0 -->
 吃喝玩乐！
 {% checkbox 品尝当地小吃、水果 %}
+
+<!-- okr kr3 percent:0 -->
+拍照！
+{% checkbox 景点标志物拍照打卡 %}
+{% checkbox 每个地方都要合照 %}
 
 {% endokr %}
