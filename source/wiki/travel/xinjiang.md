@@ -42,8 +42,8 @@ title: 新疆旅游-前期准备工作 # 这是标题名称
 
 ### 路线
 {% swiper effect:cards %}
-{% image /assets/PostImg/XinJiang_Before/xianlu.jpg %}
-{% image /assets/PostImg/XinJiang_Before/xianlu1.jpg %}
+{% image /assets/PostImg/XinJiang_Before/xianlu.png %}
+{% image /assets/PostImg/XinJiang_Before/xianlu1.png %}
 {% endswiper %}
 
 ### 既定目标
