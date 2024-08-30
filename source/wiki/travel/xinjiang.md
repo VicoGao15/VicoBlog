@@ -7,6 +7,7 @@ title: 新疆旅游-前期准备工作 # 这是标题名称
 {% link https://vicoblog-imgbed.netlify.app/ShareFile/阿勒泰喀纳斯天池吐鲁番双飞8日.pdf 金染阿勒泰·童画喀纳斯天池吐鲁番双飞 8天  %}
 
 ### 准备物品
+
 {% folders %}
 <!-- 必备物品 -->
 - 身份证
@@ -38,4 +39,13 @@ title: 新疆旅游-前期准备工作 # 这是标题名称
 - <!-- 其他 -->
 - 望远镜
 - 纸巾
+{% endfolders %}
+
+{% folders %}
+<!-- folder 题目1 -->
+这是答案1
+<!-- folder 题目2 -->
+这是答案2
+<!-- folder 题目3 -->
+这是答案3
 {% endfolders %}
