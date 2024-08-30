@@ -48,10 +48,14 @@ title: 新疆旅游-前期准备工作 # 这是标题名称
 
 ### 既定目标
 {% okr 既定目标 %}
-新疆游玩目标：收集纪念品
-<!-- okr kr1 percent:1 -->
+玩得开心！！！值得回味！！！
+
+<!-- okr 纪念品 percent:0 -->
 {% checkbox 每个地方收集一个小石头 %}
 {% checkbox 每个地方购买纪念品 %}
 {% checkbox 收集机票，门票等纪念性物品 %}
+
+<!-- okr 吃喝 percent:0 -->
 {% checkbox 品尝当地小吃、水果 %}
+
 {% endokr %}

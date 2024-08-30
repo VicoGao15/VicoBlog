@@ -26,7 +26,7 @@ comments: true
 {% checkbox symbol:minus color:yellow checked:true 图片资源加载速度太慢 %}
 {% radio checked:true Github Page仓库同名域名访问: vicoblog.github.io %}
 
-<!-- okr kr2 percent:1 -->
+<!-- okr kr2 percent: -->
 部署到vercel {% emoji blobcat blobcatcomftears %}
 {% checkbox vercel注册 checked:true %}
 {% checkbox vercel关联Github账号 checked:true %}
