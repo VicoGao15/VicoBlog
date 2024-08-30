@@ -2,6 +2,7 @@
 layout: wiki  # 使用wiki布局模板
 wiki: wiki-travel # 这是项目名
 title: 新疆旅游-前期准备工作 # 这是标题名称
+banner: /assets/cover/cover_okr.jpg
 ---
 
 {% link https://vicoblog-imgbed.netlify.app/ShareFile/阿勒泰喀纳斯天池吐鲁番双飞8日.pdf 金染阿勒泰·童画喀纳斯天池吐鲁番双飞 8天  %}
@@ -47,15 +48,17 @@ title: 新疆旅游-前期准备工作 # 这是标题名称
 {% endswiper %}
 
 ### 既定目标
-{% okr 既定目标 %}
+{% okr 目标 %}
 玩得开心！！！值得回味！！！
 
-<!-- okr 纪念品 percent:0 -->
+<!-- okr kr1 percent:0 -->
+收集纪念品。
 {% checkbox 每个地方收集一个小石头 %}
 {% checkbox 每个地方购买纪念品 %}
 {% checkbox 收集机票，门票等纪念性物品 %}
 
-<!-- okr 吃喝 percent:0 -->
+<!-- okr kr1 percent:0 -->
+吃喝玩乐！
 {% checkbox 品尝当地小吃、水果 %}
 
 {% endokr %}
