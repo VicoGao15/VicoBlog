@@ -7,6 +7,10 @@ banner: /assets/cover/gogogo.jpg
 
 {% link https://vicoblog-imgbed.netlify.app/ShareFile/阿勒泰喀纳斯天池吐鲁番双飞8日.pdf 金染阿勒泰·童画喀纳斯天池吐鲁番双飞 8天  %}
 
+### 新疆纪录片
+- 《我的阿勒泰》
+- 《航拍中国-新疆》
+
 ### 准备物品
 {% folders %}
 <!-- folder 必备物品 -->
@@ -71,3 +75,4 @@ banner: /assets/cover/gogogo.jpg
 {% checkbox 每个地方都要合照 %}
 
 {% endokr %}
+
