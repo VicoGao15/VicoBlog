@@ -55,9 +55,6 @@ banner: /assets/cover/gogogo.jpg
 {% image /assets/PostImg/XinJiang_Before/meishi.png %}
 {% endswiper %}
 
-### 气温环境
-
-
 ### 既定目标
 {% okr 目标 %}
 玩得开心！！！值得回味！！！
