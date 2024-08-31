@@ -50,8 +50,8 @@ banner: /assets/cover/gogogo.jpg
 {% swiper effect:cards %}
 {% image /assets/PostImg/XinJiang_Before/xianlu.png %}
 {% image /assets/PostImg/XinJiang_Before/xianlu1.png %}
-{% image /assets/PostImg/XinJiang_Before/temperatrue.png %}
-{% image /assets/PostImg/XinJiang_Before/temperatrue2.png %}
+{% image /assets/PostImg/XinJiang_Before/temperature.png %}
+{% image /assets/PostImg/XinJiang_Before/temperature2.png %}
 {% image /assets/PostImg/XinJiang_Before/meishi.png %}
 {% endswiper %}
 
