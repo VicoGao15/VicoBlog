@@ -46,10 +46,10 @@ banner: /assets/cover/gogogo.jpg
 - U型枕
 {% endfolders %}
 
-### 路线
+### 路线、气温、美食
 {% swiper effect:cards %}
-{% image /assets/PostImg/XinJiang_Before/xianlu.png %}
-{% image /assets/PostImg/XinJiang_Before/xianlu1.png %}
+
+  
 {% endswiper %}
 
 ### 气温环境
