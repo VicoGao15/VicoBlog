@@ -74,5 +74,10 @@ banner: /assets/cover/gogogo.jpg
 {% checkbox 景点标志物拍照打卡 %}
 {% checkbox 每个地方都要合照 %}
 
+<!-- okr kr4 percent:0 -->
+带特产！
+{% checkbox 奶糖、奶制品 %}
+{% checkbox 带个纪念品给池湘 %}
+
 {% endokr %}
 
