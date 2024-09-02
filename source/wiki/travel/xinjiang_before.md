@@ -64,10 +64,17 @@ banner: /assets/cover/gogogo.jpg
 {% checkbox 每个地方收集一个小石头 %}
 {% checkbox 每个地方购买纪念品 %}
 {% checkbox 收集机票，门票等纪念性物品 %}
+{% checkbox 天山天池的水 color:green %}
+{% checkbox 禾木云杉的叶子 color:green %}
+{% checkbox 胡杨林的叶子 color:green %}
+{% checkbox 喀纳斯湖的水 color:green %}
+{% checkbox 草原的草 color:green %}
+{% checkbox 沙漠的沙子 color:green %}
+{% checkbox 火焰山的岩石 color:green %}
 
 <!-- okr kr2 percent:0 -->
 吃喝玩乐！
-{% checkbox 品尝当地小吃、水果 %}
+{% checkbox 品尝当地小吃、水果 color:yellow %}
 
 <!-- okr kr3 percent:0 -->
 拍照！
@@ -76,8 +83,8 @@ banner: /assets/cover/gogogo.jpg
 
 <!-- okr kr4 percent:0 -->
 带特产！
-{% checkbox 奶糖、奶制品 %}
-{% checkbox 带个纪念品给池湘 %}
+{% checkbox 奶糖、奶制品 color:green %}
+{% checkbox 带个纪念品给池湘 color:green %}
 
 {% endokr %}
 
