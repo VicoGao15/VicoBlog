@@ -11,9 +11,9 @@ banner: /assets/cover/gogogo.png
 {% link https://zhuanlan.zhihu.com/p/576069517 新疆旅游必备高清人文地图+4市5州5地区 icon:/assets/PostImg/XinJiang_Before/zhihu.ico %}
 
 ### 新疆纪录片
+{% note 不要看太多，镜头滤镜严重，小心期待值拉地过高，现场景色可能达不到塑造预期。 %}
 - 《我的阿勒泰》
 - 《航拍中国-新疆》
-- 不要看太多，镜头滤镜严重，小心期待值拉地过高，现场景色可能达不到塑造预期。
 
 ### 准备物品
 {% folders %}
@@ -97,6 +97,7 @@ banner: /assets/cover/gogogo.png
 带特产！
 {% checkbox 奶糖、奶制品 color:yellow %}
 {% checkbox 带个纪念品给池湘 color:yellow %}
+{% checkbox 给爸妈带纪念品 color:yellow %}
 
 <!-- okr kr6 percent:0 -->
 写游记！

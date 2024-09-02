@@ -1,7 +1,7 @@
 ---
 layout: wiki  # 使用wiki布局模板
 wiki: wiki-note # 这是项目名
-title: 「Issue笔记」
+title: 「Issue动态笔记」
 date: 2024-08-16 16:47:19
 banner: /assets/cover/cover_notes.jpg
 banner_info: 
