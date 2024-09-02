@@ -21,6 +21,16 @@ comments:
     data-repo: vicoblog/vicoblog-comments
 base_dir: /wiki/travel/
 tree:
-  '快速开始':
+  '新疆':
     - xinjiang_before
     - xinjiang_after
+  '香港':
+    - HK-With-MF-Before
+    - HK-With-MF
+  '汕头':
+    - ShanTou
+  '潮州':
+    - ChaoZhou
+  '韶关':
+  
+  
