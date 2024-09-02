@@ -56,12 +56,11 @@ banner: /assets/cover/gogogo.jpg
 {% endswiper %}
 
 ### 既定目标
-{% okr 目标 %}
-玩得开心！！！值得回味！！！
+{% okr 玩得开心！！！ %}
+值得回味！！！
 
 <!-- okr kr1 percent:0 -->
 收集纪念品。
-{% checkbox 每个地方收集一个小石头 %}
 {% checkbox 每个地方购买纪念品 %}
 {% checkbox 收集机票，门票等纪念性物品 %}
 {% checkbox 天山天池的水 color:green %}
@@ -86,7 +85,7 @@ banner: /assets/cover/gogogo.jpg
 {% checkbox 骑马 color:green %}
 {% checkbox 小村庄家访 color:green %}
 
-<!-- okr kr4 percent:0 -->
+<!-- okr kr5 percent:0 -->
 带特产！
 {% checkbox 奶糖、奶制品 color:yellow %}
 {% checkbox 带个纪念品给池湘 color:yellow %}
