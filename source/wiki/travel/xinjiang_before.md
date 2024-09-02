@@ -56,7 +56,8 @@ banner: /assets/cover/gogogo.jpg
 {% endswiper %}
 
 ### 既定目标
-{% okr 玩得开心！！！ %}
+{% okr KR %}
+玩得开心！！！
 值得回味！！！
 
 <!-- okr kr1 percent:0 -->
