@@ -2,7 +2,7 @@
 layout: wiki  # 使用wiki布局模板
 wiki: wiki-travel # 这是项目名
 title: 新疆旅游-前期准备工作 # 这是标题名称
-banner: /assets/cover/gogogo.jpg
+banner: /assets/cover/gogogo.png
 ---
 ### 公司团游PDF
 {% link https://vicoblog-imgbed.netlify.app/ShareFile/阿勒泰喀纳斯天池吐鲁番双飞8日.pdf 金染阿勒泰·童画喀纳斯天池吐鲁番双飞 8天 icon:/assets/PostImg/XinJiang_Before/xinjiang_pdf.png %}
@@ -51,6 +51,7 @@ banner: /assets/cover/gogogo.jpg
 
 ### 路线、气温、美食
 {% swiper effect:cards %}
+{% image /assets/PostImg/XinJiang_Before/xincheng.png %}
 {% image /assets/PostImg/XinJiang_Before/xianlu.png %}
 {% image /assets/PostImg/XinJiang_Before/xianlu1.png %}
 {% image /assets/PostImg/XinJiang_Before/temperature.png %}
