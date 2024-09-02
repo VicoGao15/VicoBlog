@@ -4,8 +4,11 @@ wiki: wiki-travel # 这是项目名
 title: 新疆旅游-前期准备工作 # 这是标题名称
 banner: /assets/cover/gogogo.jpg
 ---
+### 公司团游PDF
+{% link https://vicoblog-imgbed.netlify.app/ShareFile/阿勒泰喀纳斯天池吐鲁番双飞8日.pdf 金染阿勒泰·童画喀纳斯天池吐鲁番双飞 8天 icon:/assets/PostImg/XinJiang_Before/xinjiang_pdf.png %}
 
-{% link https://vicoblog-imgbed.netlify.app/ShareFile/阿勒泰喀纳斯天池吐鲁番双飞8日.pdf 金染阿勒泰·童画喀纳斯天池吐鲁番双飞 8天  %}
+### 相关介绍
+{% link https://zhuanlan.zhihu.com/p/576069517 新疆旅游必备高清人文地图+4市5州5地区 icon:/assets/PostImg/XinJiang_Before/zhihu.ico %}
 
 ### 新疆纪录片
 - 《我的阿勒泰》
