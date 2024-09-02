@@ -4,7 +4,7 @@ subtitle: '我的个人日记 | Designed by VicoGao'
 tags: 日记
 icon: /assets/wiki/note/icon.svg
 cover: /assets/wiki/note/icon.svg
-coverpage: true # 默认是 false
+coverpage: false # 默认是 false
 description: 此文档用于记录2024年日记记录
 repo: vicogao15/vicoblog
 search:
@@ -32,6 +32,7 @@ tree:
     - 2024-6
     - 2024-7
     - 2024-8
+    - 2024-9
   '特别记录':
     - 2024-AfterNewYear
     - 2024-Computer
