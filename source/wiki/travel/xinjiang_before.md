@@ -11,7 +11,7 @@ banner: /assets/cover/gogogo.png
 {% link https://zhuanlan.zhihu.com/p/576069517 新疆旅游必备高清人文地图+4市5州5地区 icon:/assets/PostImg/XinJiang_Before/zhihu.ico %}
 
 ### 新疆纪录片
-{% note 不要看太多，镜头滤镜严重，小心期待值拉地过高，现场景色可能达不到塑造预期。 %}
+{% note 不要看太多，镜头滤镜严重，小心期待值拉地过高，现场景色可能达不到塑造预期。 color:blue %}
 - 《我的阿勒泰》
 - 《航拍中国-新疆》
 
@@ -61,7 +61,7 @@ banner: /assets/cover/gogogo.png
 {% endswiper %}
 
 ### 既定目标
-{% note 目标定的太多也不好，感觉像是带着任务一样，无法玩得随心所欲！！！ color:yellow %}
+{% note 目标定的太多也不好，感觉像是带着任务一样，无法玩得随心所欲！！！ color:blue %}
 
 {% okr KR %}
 玩得开心！！！
