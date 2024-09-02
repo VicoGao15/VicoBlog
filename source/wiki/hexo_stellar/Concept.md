@@ -1,15 +1,15 @@
 ---
 layout: wiki  # 使用wiki布局模板
 wiki: hexo_stellar # 这是项目名
-menu_id: wiki
 title: 概念讲解
 date: 2024-08-07 13:40:22 
-banner: /assets/cover/cover_okr.png
+banner: /assets/cover/cover_okr.jpg
 comments: true
 ---
 
 {% note color:blue 以下内容旨在列举搭建个人站点的一些概念点，时刻翻阅了解其是什么，工作原理是什么。 %}
 ### Hexo 是什么？
+{% link https://hexo.io Hexo快速、简洁且高效的博客框架 icon:/assets/wiki/hexo_stellar/hexo.svg %}
 [文档原文：](https://hexo.io/zh-cn/docs/)  
 > Hexo 是一个快速、简洁且高效的博客框架。 Hexo 使用 Markdown（或其他标记语言）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。
 
@@ -31,7 +31,7 @@ GitHub Pages 是 GitHub 提供给用户用来展示个人或者项目主页的�
 一款非常好用的文本编辑器。
 ### Stellar是什么？
 Hexo博客的一种主题，生成鲜明风格的样式页面。
-{% link https://hexo.io/themes/ 所有Hexo主题 icon:/assets/wiki/hexo_stellar/hexo.svg %}
+{% link https://xaoxuu.com/wiki/stellar Stellar-每个人的独立博客 icon:/assets/wiki/hexo_stellar/stellar.svg %}
 ### Netlify是什么？
 > Netlify 是一个提供静态资源网络托管的综合平台，一个直观的基于Git的工作流和强大的无服务器平台，用于构建、部署和协作web应用程序，即能够将托管 GitHub，GitLab 等网站上的 Jekyll，Hexo，Hugo 等代码自动编译并生成静态网站。
 {% link https://app.netlify.com/ Netlify icon:/assets/wiki/hexo_stellar/netlify.svg %}

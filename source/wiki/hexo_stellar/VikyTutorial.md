@@ -4,7 +4,7 @@ wiki: hexo_stellar # 这是项目名
 menu_id: wiki
 title: 文章部署流程
 date: 2024-08-07 13:40:22 
-banner: /assets/cover/cover_okr.png
+banner: /assets/cover/cover_okr.jpg
 comments: true
 ---
 

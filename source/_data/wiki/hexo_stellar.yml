@@ -22,7 +22,7 @@ comments:
 base_dir: /wiki/hexo_stellar/
 tree:
   '快速开始':
-    - index
+    - Concept
     - StellarBeauty
     - HexoQuickStart
     - HexoTutorial
