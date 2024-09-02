@@ -1,12 +1,8 @@
 ---
-menu_id: travel
+layout: wiki  # 使用wiki布局模板
+wiki: wiki-travel # 这是项目名
 title: 香港-攻略
 date: 2024-07-26 20:41:00
-tags:
-  - 香港
-  - 攻略
-categories:
-  - 游记
 cover: /assets/cover/cover_hk3.png
 banner: /assets/cover/cover_hk3.png
 ---

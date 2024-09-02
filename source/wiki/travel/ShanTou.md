@@ -1,9 +1,8 @@
 ---
-menu_id: travel
+layout: wiki  # 使用wiki布局模板
+wiki: wiki-travel # 这是项目名
 title: 汕头-游记
 date: 2024-05-20 20:14:19
-categories:
-  - 游记
 cover: /assets/cover/cover_shantou.jpg
 banner: /assets/cover/cover_shantou.jpg
 ---

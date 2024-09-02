@@ -1,5 +1,6 @@
 ---
-menu_id: travel
+layout: wiki  # 使用wiki布局模板
+wiki: wiki-travel # 这是项目名
 title: 潮州-游记
 date: 2024-05-28 20:14:19
 categories:
