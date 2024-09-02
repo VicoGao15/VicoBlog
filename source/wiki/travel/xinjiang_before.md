@@ -82,9 +82,14 @@ banner: /assets/cover/gogogo.jpg
 {% checkbox 每个地方都要合照 %}
 
 <!-- okr kr4 percent:0 -->
+自费游玩项目
+{% checkbox 骑马 color:green %}
+{% checkbox 小村庄家访 color:green %}
+
+<!-- okr kr4 percent:0 -->
 带特产！
-{% checkbox 奶糖、奶制品 color:green %}
-{% checkbox 带个纪念品给池湘 color:green %}
+{% checkbox 奶糖、奶制品 color:yellow %}
+{% checkbox 带个纪念品给池湘 color:yellow %}
 
 {% endokr %}
 
