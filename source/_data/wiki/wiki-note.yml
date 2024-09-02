@@ -22,7 +22,7 @@ comments:
 base_dir: /wiki/note/
 tree:
   '快速开始':
-    - index
+    - IssueNote
   '每月记录':
     - 2024-1
     - 2024-2
