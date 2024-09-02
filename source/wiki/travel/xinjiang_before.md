@@ -13,6 +13,7 @@ banner: /assets/cover/gogogo.png
 ### 新疆纪录片
 - 《我的阿勒泰》
 - 《航拍中国-新疆》
+- 不要看太多，镜头滤镜严重，小心期待值拉地过高，现场景色可能达不到塑造预期。
 
 ### 准备物品
 {% folders %}
@@ -60,6 +61,8 @@ banner: /assets/cover/gogogo.png
 {% endswiper %}
 
 ### 既定目标
+{% note 目标定的太多也不好，感觉像是带着任务一样，无法玩得随心所欲！！！ color:yellow %}
+
 {% okr KR %}
 玩得开心！！！
 值得回味！！！
@@ -95,5 +98,12 @@ banner: /assets/cover/gogogo.png
 {% checkbox 奶糖、奶制品 color:yellow %}
 {% checkbox 带个纪念品给池湘 color:yellow %}
 
+<!-- okr kr6 percent:0 -->
+写游记！
+{% checkbox 每天晚上花十分钟的时间写当日游记体验，日后回味 %}
+
 {% endokr %}
+
+### 沿途音乐
+- 河西走廊
 
