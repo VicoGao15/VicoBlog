@@ -82,5 +82,5 @@ banner: /assets/cover/cover_hk3.png
 - 香港-深圳湾口岸：B2P大巴
 - 落马洲-罗湖口岸
 
-{% image /assets/PostImg/HK-With-MF-Before/HK_3.jpg %}
+{% image /assets/PostImg/HK-With-MF-Before/HK_3.png %}
 
