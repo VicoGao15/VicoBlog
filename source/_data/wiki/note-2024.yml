@@ -2,14 +2,14 @@ name: Note-2024
 title: 日记-2024
 subtitle: '日记-2024 | Writed by VicoGao'
 tags: 日记
-icon: /assets/wiki/note/icon.svg
-cover: /assets/wiki/note/icon.svg
+icon: /assets/wiki/note/2024.svg
+cover: /assets/wiki/note/2024.svg
 coverpage: false # 默认是 false
 description: 此文档用于记录2024年日记记录
 repo: vicogao15/vicoblog
 search:
   filter: /wiki/note/
-  placeholder: 在 日记 中搜索...
+  placeholder: 在 2024 中搜索...
 leftbar: 
   - tree
   - timeline_stellar_releases
@@ -21,7 +21,7 @@ comments:
     data-repo: vicoblog/vicoblog-comments
 base_dir: /wiki/note/
 tree:
-  '快速开始':
+  '首页':
     - IssueNote
   '每月记录':
     - 2024-1
@@ -33,6 +33,6 @@ tree:
     - 2024-7
     - 2024-8
     - 2024-9
-  '特别记录':
+  '特别篇':
     - 2024-AfterNewYear
     - 2024-Computer
