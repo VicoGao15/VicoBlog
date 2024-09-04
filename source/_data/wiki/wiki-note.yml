@@ -2,8 +2,8 @@ name: Note-2024
 title: 日记-2024
 subtitle: '日记-2024 | Writed by VicoGao'
 tags: 日记
-icon: /assets/wiki/note/2024.svg
-cover: /assets/wiki/note/2024.svg
+icon: /assets/wiki/note/icon.svg
+cover: /assets/wiki/note/icon.svg
 coverpage: false # 默认是 false
 description: 此文档用于记录2024年日记记录
 repo: vicogao15/vicoblog
