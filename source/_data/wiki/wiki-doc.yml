@@ -1,11 +1,11 @@
 name: Document
-title: 教程记录 - 我的独立教程文档系统
-subtitle: '我的独立文档系统 | Designed by VicoGao'
+title: 知识库
+subtitle: '我的知识库 | Designed by VicoGao'
 tags: 教程
 icon: /assets/wiki/doc/icon.svg
 cover: /assets/wiki/doc/icon.svg
 coverpage: true # 默认是 false
-description: 此文档用于记录Hexo博客搭建过程记录
+description: 此文档用于记录繁杂的有用知识
 repo: vicogao15/vicoblog
 search:
   filter: /wiki/doc/
