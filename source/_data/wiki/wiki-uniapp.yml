@@ -1,15 +1,15 @@
-name: Vue
-title: Vue
-subtitle: '我的Vue记录文档 | Writed by VicoGao'
+name: uniApp
+title: uniapp
+subtitle: '我的uniapp记录文档 | Writed by VicoGao'
 tags: 文档
-icon: /assets/wiki/vue/icon.svg
-cover: /assets/wiki/vue/icon.svg
+icon: /assets/wiki/uniapp/icon.svg
+cover: /assets/wiki/uniapp/icon.svg
 coverpage: false # 默认是 false
-description: 此文档用于记录Vue相关知识
+description: 此文档用于记录uniapp相关知识
 repo: vicogao15/vicoblog
 search:
-  filter: /wiki/vue/
-  placeholder: 在 vue 中搜索...
+  filter: /wiki/uniapp/
+  placeholder: 在 uniapp 中搜索...
 leftbar: 
   - tree
   - timeline_stellar_releases
@@ -19,7 +19,7 @@ comments:
   service: beaudar
   beaudar:
     data-repo: vicoblog/vicoblog-comments
-base_dir: /wiki/vue/
+base_dir: /wiki/uniapp/
 tree:
   '开始':
     - index
