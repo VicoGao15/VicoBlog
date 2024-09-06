@@ -18,7 +18,8 @@ title: ssh配置与上传步骤
 然后连敲三次回车键（也可以输入设置密码），结束后去系统盘目录下（一般在 C:\Users\你的用户名\.ssh）(mac: /Users/用户/.ssh）查看是否有.ssh文件夹生成，此文件夹中以下两个文件
 {% image /assets/PostImg/Wiki-Git/ssh_generate.png %}
 
-#### 5.将ssh文件夹中的公钥（ id_rsa.pub）添加到Git服务器中（下面步骤是在GitHub管理平台上操作），在GitHub中点击右上角头像->Settings->SSH and GPG keys->New SSH key,将公钥（ id_rsa.pub）文件中内容复制粘贴到key中，然后点击Add SSH key就好啦！
+#### 5.添加公钥到Github
+将ssh文件夹中的公钥（ id_rsa.pub）添加到Git服务器中（下面步骤是在GitHub管理平台上操作），在GitHub中点击右上角头像->Settings->SSH and GPG keys->New SSH key,将公钥（ id_rsa.pub）文件中内容复制粘贴到key中，然后点击Add SSH key就好啦！
 
 #### 6.测试一下配置是否成功
 {% image /assets/PostImg/Wiki-Git/ssh_config_test.png %}
