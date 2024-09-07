@@ -52,14 +52,14 @@ Hexo配置完善
 {% checkbox 修改文章默认url( _config.yml中设置 permalink: :title/ )，之后生成文章的 url 中就没有日期了 checked:true %}
 {% checkbox 侧边栏背景图片 checked:true %}
 
-<!-- okr kr5 percent:0.4 status:unfinished -->
+<!-- okr kr5 percent:0.95 status:unfinished -->
 Stellar主题中有很多好看的组件和相关配置，在VicoBlog中使用
 {% checkbox 使用评论组件：Beaudar checked:true color:green %}
 {% checkbox 使用timeline时间线组件 checked:true color:green %}
 {% checkbox okr目标管理 color:green checked:true %}
 {% checkbox swiper 轮播容器 color:green checked:true %}
 {% checkbox 左侧小组件的使用(Github用户信息、标签云) color:green checked:true %}
-{% checkbox 文章分类管理menu_id symbol:times color:red checked:true %}
+{% checkbox 文章分类管理menu_id color:yellow checked:true %}
 {% checkbox 更改主题字体 color:green checked:true %}
 {% checkbox 添加顶部加载精度条 color:green checked:true %}
 {% link https://sfzhang.top/blog/2023/10/12/blog-progress Stellar主题添加顶部加载进度条 %}

@@ -22,4 +22,5 @@ comments:
 base_dir: /wiki/doc/
 tree:
   '快速开始':
-    - index
+    - GetStart
+    - 磁盘分区
