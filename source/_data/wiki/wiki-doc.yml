@@ -21,7 +21,9 @@ comments:
     data-repo: vicoblog/vicoblog-comments
 base_dir: /wiki/doc/
 tree:
-  '快速开始':
+  '操作系统':
     - GetStart
     - 磁盘分区
     - 系统重装
+  '其他':
+    - 竖版世界地图
