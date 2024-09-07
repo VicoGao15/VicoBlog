@@ -9,6 +9,7 @@ banner: /assets/cover/gogogo.png
 
 ### 相关介绍
 {% link https://zhuanlan.zhihu.com/p/576069517 新疆旅游必备高清人文地图+4市5州5地区 icon:/assets/PostImg/XinJiang_Before/zhihu.ico %}
+{% link http://ditu.ps123.net/china/3350.html 新疆旅游地图 %}
 
 ### 新疆纪录片
 {% note 不要看太多，镜头滤镜严重，小心期待值拉地过高，现场景色可能达不到塑造预期。 color:blue %}
