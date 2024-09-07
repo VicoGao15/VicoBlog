@@ -26,7 +26,7 @@ comments: true
 {% checkbox symbol:minus color:yellow checked:true 图片资源加载速度太慢 %}
 {% radio checked:true Github Page仓库同名域名访问: vicoblog.github.io %}
 
-<!-- okr kr2 percent: -->
+<!-- okr kr2 percent:1 -->
 部署到vercel {% emoji blobcat blobcatcomftears %}
 {% checkbox vercel注册 checked:true %}
 {% checkbox vercel关联Github账号 checked:true %}
@@ -43,7 +43,7 @@ comments: true
 {% note color:blue 没有被墙，国内访问速度还不错 %}
 最佳推荐!
 
-<!-- okr kr4 percent:0.5 status:unfinished -->
+<!-- okr kr4 percent:1 -->
 Hexo配置完善
 {% checkbox Hexo使用Stellar主题 checked:true %}
 {% checkbox Hexo图片显示，hexo-renderer-marked插件 checked:true %}
