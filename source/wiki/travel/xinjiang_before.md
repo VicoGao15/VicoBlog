@@ -13,9 +13,11 @@ banner: /assets/cover/gogogo.png
 
 ### 新疆纪录片
 {% note 不要看太多，镜头滤镜严重，小心期待值拉地过高，现场景色可能达不到塑造预期。 color:blue %}
-- 《我的阿勒泰》
-- 《航拍中国-新疆》
+{% mark 《我的阿勒泰》 color:yellow %}{% mark 《航拍中国-新疆》 color:yellow %}{% mark B站的博主在新疆旅游视频 color:yellow %}
 
+### 面容修理
+{% hashtag 理发 %}{% hashtag 修眉 %}{% hashtag 刮胡子 %}{% hashtag 修指甲 %}
+  
 ### 准备物品
 {% folders %}
 <!-- folder 必备物品 -->
