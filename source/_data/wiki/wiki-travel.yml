@@ -21,16 +21,13 @@ comments:
     data-repo: vicoblog/vicoblog-comments
 base_dir: /wiki/travel/
 tree:
-  '新疆':
+  '目录':
     - xinjiang_before
     - xinjiang_after
-  '香港':
     - HK-With-MF-Before
     - HK-With-MF
-  '潮汕':
     - ShanTou
     - ChaoZhou
-  '韶关':
     - 韶关-丹霞山
     - 韶关-帽子峰
     
