@@ -27,10 +27,13 @@ tree:
   '香港':
     - HK-With-MF-Before
     - HK-With-MF
-  '汕头':
+  '潮汕':
     - ShanTou
-  '潮州':
     - ChaoZhou
+  '韶关':
+    - 韶关-丹霞山
+    - 韶关-帽子峰
+    
 
 
   
