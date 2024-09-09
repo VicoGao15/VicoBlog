@@ -4,21 +4,21 @@ wiki: wiki-travel # 这是项目名
 title: 新疆旅游-前期准备工作 # 这是标题名称
 banner: /assets/cover/gogogo.png
 ---
-### 公司团游PDF
+#### 公司团游PDF
 {% link https://vicoblog-imgbed.netlify.app/ShareFile/阿勒泰喀纳斯天池吐鲁番双飞8日.pdf 金染阿勒泰·童画喀纳斯天池吐鲁番双飞 8天 icon:/assets/PostImg/XinJiang_Before/xinjiang_pdf.png %}
 
-### 相关介绍
+#### 相关介绍
 {% link https://zhuanlan.zhihu.com/p/576069517 新疆旅游必备高清人文地图+4市5州5地区 icon:/assets/PostImg/XinJiang_Before/zhihu.ico %}
 {% link http://ditu.ps123.net/china/3350.html 新疆旅游地图 %}
 
-### 新疆纪录片
+#### 新疆纪录片
 {% note 不要看太多，镜头滤镜严重，小心期待值拉地过高，现场景色可能达不到塑造预期。 color:blue %}
-{% mark 《我的阿勒泰》 color:yellow %}{% mark 《航拍中国-新疆》 color:yellow %}{% mark B站的博主在新疆旅游视频 color:yellow %}
+{% mark 《我的阿勒泰》 color:yellow %}{% mark 《航拍中国-新疆》 color:green %}{% mark B站的博主在新疆旅游视频 color:blue %}
 
-### 面容修理
+#### 面容修理
 {% hashtag 理发 %}{% hashtag 修眉 %}{% hashtag 刮胡子 %}{% hashtag 修指甲 %}
   
-### 准备物品
+#### 准备物品
 {% folders %}
 <!-- folder 必备物品 -->
 - 身份证  
@@ -53,7 +53,7 @@ banner: /assets/cover/gogogo.png
 - U型枕
 {% endfolders %}
 
-### 路线、气温、美食
+#### 路线、气温、美食
 {% swiper effect:cards %}
 {% image /assets/PostImg/XinJiang_Before/xincheng.png %}
 {% image /assets/PostImg/XinJiang_Before/xianlu.png %}
@@ -63,7 +63,7 @@ banner: /assets/cover/gogogo.png
 {% image /assets/PostImg/XinJiang_Before/meishi.png %}
 {% endswiper %}
 
-### 既定目标
+#### 既定目标
 {% note 目标定的太多也不好，感觉像是带着任务一样，无法玩得随心所欲！！！ color:blue %}
 
 {% okr KR %}
@@ -108,6 +108,8 @@ banner: /assets/cover/gogogo.png
 
 {% endokr %}
 
-### 沿途音乐
-- 河西走廊
+#### 沿途音乐
+{% hashtag 河西走廊之梦 %}{% hashtag 可可托海的牧羊人 %}{% hashtag 新疆是个好地方 %}  
+{% hashtag 蓝莲花 %}{% hashtag 曾经的你 %}{% hashtag 温暖 %}  
+{% hashtag 平凡之路 %}{% hashtag 风吹麦浪 %}  
 
