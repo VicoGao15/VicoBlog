@@ -319,15 +319,16 @@ footer:
       icon: default:theme
       onclick: 'switchTheme()'
   sitemap:
-    '博客':
-      - '[最新](/)'
-      - '[分类](/categories)'
-      - '[标签](/tags)'
-      - '[归档](/archives)'
     '本站':
-      - '[Wiki文档](/wiki)'
+      - '[主页](/)'
+      - '[Issue笔记](/notes)'
       - '[建站记录](/log)'
       - '[关于本站](/about)'
+    'Wiki文档':
+      - '[日记](/wiki/note)'
+      - '[游记](/wiki/travel)'
+      - '[Git](/wiki/git)'
+      - '[Hexo-Stellar](/wiki/hexo_stellar)'
     '文档部署':
       - '[Hexo](https://hexo.io)'
       - '[Stellar](https://xaoxuu.com/wiki/stellar/#start)'
@@ -355,12 +356,12 @@ footer:
         c = (b - B) * 60;
         C = Math.floor((b - B) * 60);
         D = Math.floor((c - C) * 60);
-        runtime_span.innerHTML = "已运行 " + A + "天 " + B + "小时 " + C + "分 " + D + "秒"
+        runtime_span.innerHTML = "已顺利运行 " + A + " 天 " + B + " 小时 " + C + " 分 " + D + " 秒"
     }
     show_runtime();
     </script>
     <span id="runtime_span"></span>
-    <span id="busuanzi_container_site_pv">总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+    <span id="busuanzi_container_site_pv">总访问量： <span id="busuanzi_value_site_pv"></span> 次</span>
     <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   # 主题用户越多，开发者维护和更新的积极性就越高，如果您喜欢本主题，请在适当的位置显示主题信息和仓库链接以表支持。
 
