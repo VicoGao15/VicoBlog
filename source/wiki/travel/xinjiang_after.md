@@ -7,27 +7,28 @@ banner: /assets/cover/gogogo.png
 
 {% timeline %}
 <!-- node 2024.9.17 Day1 -->
-{% quot 深圳>>乌鲁木齐 icon:hashtag %}
-
+{% quot 深圳 >> 乌鲁木齐 icon:hashtag %}
 <!-- node 2024.9.18 Day2 -->
-{% quot 乌鲁木齐-福海/北屯【天山天池】 icon:hashtag %}
-
+{% quot 乌鲁木齐--福海/北屯 icon:hashtag %}
+{% hashtag 【天山天池】 %}
 <!-- node 2024.9.19 Day3 -->
 {% quot 北屯--禾木 icon:hashtag %}
-
 <!-- node 2024.9.20 Day4 -->
-{% quot 禾木-【喀纳斯】-布尔津【五彩滩】 icon:hashtag %}
-
+{% quot 禾木--布尔津 icon:hashtag %}
+{% hashtag 【喀纳斯】 %}
+{% hashtag 【五彩滩】 %}
 <!-- node 2024.9.21 Day5 -->
-{% quot 布尔津-奎屯【魔鬼城】 icon:hashtag %}
-
+{% quot 布尔津--奎屯 icon:hashtag %}
+【魔鬼城】
 <!-- node 2024.9.22 Day6 -->
-{% quot 奎屯-吐鲁番【坎儿井】【维吾尔家访】 icon:hashtag %}
-
+{% quot 奎屯--吐鲁番 icon:hashtag %}
+【坎儿井】
+【维吾尔家访】
 <!-- node 2024.9.23 Day7 -->
-{% quot 吐鲁番-乌鲁木齐【库木塔格沙漠】【火焰山】 icon:hashtag %}
-
+{% quot 吐鲁番--乌鲁木齐 icon:hashtag %}
+【库木塔格沙漠】
+【火焰山】
 <!-- node 2024.9.24 Day8 -->
-{% quot 乌鲁木齐>>深圳【国际大巴扎】 icon:hashtag %}
-
+{% quot 乌鲁木齐 >> 深圳 icon:hashtag %}
+【国际大巴扎】
 {% endtimeline %}
