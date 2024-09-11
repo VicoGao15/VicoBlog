@@ -10,6 +10,7 @@ banner: /assets/cover/gogogo.png
 #### 相关介绍
 {% link https://zhuanlan.zhihu.com/p/576069517 新疆旅游必备高清人文地图+4市5州5地区 icon:/assets/PostImg/XinJiang_Before/zhihu.ico %}
 {% link http://ditu.ps123.net/china/3350.html 新疆旅游地图 %}
+{% link https://hanyu.baidu.com/s?from=aladdin&query=%E8%B5%9E%E7%BE%8E%E6%96%B0%E7%96%86%E9%A3%8E%E6%99%AF%E7%9A%84%E8%AF%97%E5%8F%A5&smpid=&srcid=51370&wd=%E8%B5%9E%E7%BE%8E%E6%96%B0%E7%96%86%E9%A3%8E%E6%99%AF%E7%9A%84%E8%AF%97%E5%8F%A5 赞美新疆的诗句 %}
 *大漠孤烟直，长河落日圆。*
 #### 新疆纪录片
 {% note 不要看太多，镜头滤镜严重，小心期待值拉地过高，现场景色可能达不到塑造预期。 color:blue %}
