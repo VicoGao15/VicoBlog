@@ -1,7 +1,7 @@
 ---
 layout: wiki  # 使用wiki布局模板
 wiki: wiki-travel # 这是项目名
-title: 新疆-前期准备工作 # 这是标题名称
+title: 新疆-前期准备 # 这是标题名称
 banner: /assets/cover/gogogo.png
 ---
 #### 公司团游PDF
@@ -10,7 +10,7 @@ banner: /assets/cover/gogogo.png
 #### 相关介绍
 {% link https://zhuanlan.zhihu.com/p/576069517 新疆旅游必备高清人文地图+4市5州5地区 icon:/assets/PostImg/XinJiang_Before/zhihu.ico %}
 {% link http://ditu.ps123.net/china/3350.html 新疆旅游地图 %}
-
+*大漠孤烟直，长河落日圆。*
 #### 新疆纪录片
 {% note 不要看太多，镜头滤镜严重，小心期待值拉地过高，现场景色可能达不到塑造预期。 color:blue %}
 {% mark 1.《我的阿勒泰》 color:yellow %}{% mark 2.《航拍中国-新疆》 color:cyan %}{% mark 3.B站的博主在新疆旅游视频 color:blue %}
@@ -110,6 +110,8 @@ banner: /assets/cover/gogogo.png
 
 #### 沿途音乐
 {% hashtag 河西走廊之梦 %}{% hashtag 可可托海的牧羊人 %}{% hashtag 新疆是个好地方 %}  
+
 {% hashtag 蓝莲花 %}{% hashtag 曾经的你 %}{% hashtag 温暖 %}  
+
 {% hashtag 平凡之路 %}{% hashtag 风吹麦浪 %}  
 
