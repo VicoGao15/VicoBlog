@@ -15,20 +15,20 @@ banner: /assets/cover/gogogo.png
 {% quot 北屯--禾木 icon:hashtag %}
 <!-- node 2024.9.20 Day4 -->
 {% quot 禾木--布尔津 icon:hashtag %}
-{% hashtag 【喀纳斯】 %}
+{% hashtag 【喀纳斯】 %}  
 {% hashtag 【五彩滩】 %}
 <!-- node 2024.9.21 Day5 -->
 {% quot 布尔津--奎屯 icon:hashtag %}
-【魔鬼城】
+{% hashtag 【魔鬼城】 %}
 <!-- node 2024.9.22 Day6 -->
 {% quot 奎屯--吐鲁番 icon:hashtag %}
-【坎儿井】
-【维吾尔家访】
+{% hashtag 【坎儿井】 %}  
+{% hashtag 【维吾尔家访】 %}
 <!-- node 2024.9.23 Day7 -->
 {% quot 吐鲁番--乌鲁木齐 icon:hashtag %}
-【库木塔格沙漠】
-【火焰山】
+{% hashtag 【库木塔格沙漠】 %}  
+{% hashtag 【火焰山】 %}
 <!-- node 2024.9.24 Day8 -->
 {% quot 乌鲁木齐 >> 深圳 icon:hashtag %}
-【国际大巴扎】
+{% hashtag 【国际大巴扎】 %}
 {% endtimeline %}
