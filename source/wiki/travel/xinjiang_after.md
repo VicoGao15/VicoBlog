@@ -8,19 +8,21 @@ banner: /assets/cover/gogogo.png
 #### D1 深圳 > 乌鲁木齐
 {% hashtag 2024.9.17 %} 
 {% box color:blue %}
-11111111111
+{% quot 搭乘飞机 %}
+内容内容内容
 {% endbox %}
 
 #### D2 乌鲁木齐 - 福海/北屯
 {% hashtag 2024.9.18 %}  
 {% box color:blue %}
 {% quot 【天山天池】 icon:hashtag %}
-11111111111
+内容内容内容
 {% endbox %}
 
 #### D3 北屯 - 禾木
 {% hashtag 2024.9.19 %} 
 {% box color:yellow %}
+{% quot 禾木自由行 %}
 内容内容内容
 {% endbox %}
 
@@ -48,7 +50,7 @@ banner: /assets/cover/gogogo.png
 {% quot 【坎儿井】 icon:hashtag %}
 内容内容内容
 {% endbox %}
-{% box color:freen %}
+{% box color:orange %}
 {% quot 【维吾尔家访】 icon:hashtag %}
 内容内容内容
 {% endbox %}
