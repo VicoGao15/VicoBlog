@@ -5,7 +5,7 @@ title: 新疆-总结 # 这是标题名称
 banner: /assets/cover/gogogo.png
 ---
 
-#### D1 深圳 > 乌鲁木齐
+#### D1 深圳 > 乌鲁木齐{% icon solar:planet-bold-duotone %}
 {% hashtag 2024.9.17 %} 
 {% box color:cyan %}
 {% quot 搭乘飞机 %}
