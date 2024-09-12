@@ -7,7 +7,7 @@ banner: /assets/cover/gogogo.png
 
 #### D1 深圳 > 乌鲁木齐
 {% hashtag 2024.9.17 %} 
-{% box color:blue %}
+{% box color:cyan %}
 {% quot 搭乘飞机 %}
 内容内容内容
 {% endbox %}
@@ -61,14 +61,14 @@ banner: /assets/cover/gogogo.png
 {% quot 【库木塔格沙漠】 icon:hashtag %}
 内容内容内容
 {% endbox %}
-{% box color:yellow %}
+{% box color:light %}
 {% quot 【火焰山】 icon:hashtag %}
 内容内容内容
 {% endbox %}
   
 #### D8 乌鲁木齐 > 深圳
 {% hashtag 2024.9.24 %} 
-{% box color:blue %}
+{% box color:purple %}
 {% quot 【国际大巴扎】 icon:hashtag %}
 内容内容内容
 {% endbox %}
