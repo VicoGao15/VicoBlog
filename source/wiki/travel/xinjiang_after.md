@@ -10,7 +10,8 @@ banner: /assets/cover/gogogo.png
 
 #### D2 乌鲁木齐 - 福海/北屯
 {% hashtag 2024.9.18 %}  
-{% box 【天山天池】 blue %}
+{% box 【天山天池】 color:blue %}
+内容内容内容
 {% endbox %}
 
 #### D3 北屯 - 禾木
