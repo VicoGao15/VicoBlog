@@ -11,8 +11,6 @@ banner: /assets/cover/gogogo.png
 {% box color:light %}
 {% quot 搭乘飞机 %}
 内容内容内容
-{% endbox %}
-{% box color:light %}
 {% quot 新疆博物馆 %}
 内容内容内容
 {% endbox %}
@@ -29,8 +27,6 @@ banner: /assets/cover/gogogo.png
 {% box color:light %}
 {% quot 禾木自由行 %}
 内容内容内容
-{% endbox %}
-{% box color:light %}
 {% quot 骑马 %}
 内容内容内容
 {% endbox %}
@@ -40,8 +36,6 @@ banner: /assets/cover/gogogo.png
 {% box color:light %}
 {% quot 【喀纳斯】 icon:hashtag %}
 内容内容内容
-{% endbox %}
-{% box color:light %}
 {% quot 【五彩滩】 icon:hashtag %}
 内容内容内容
 {% endbox %}
@@ -58,8 +52,6 @@ banner: /assets/cover/gogogo.png
 {% box color:light %}
 {% quot 【坎儿井】 icon:hashtag %}
 内容内容内容
-{% endbox %}
-{% box color:light %}
 {% quot 【维吾尔家访】 icon:hashtag %}
 内容内容内容
 {% endbox %}
@@ -69,8 +61,6 @@ banner: /assets/cover/gogogo.png
 {% box color:light %}
 {% quot 【库木塔格沙漠】 icon:hashtag %}
 内容内容内容
-{% endbox %}
-{% box color:light %}
 {% quot 【火焰山】 icon:hashtag %}
 内容内容内容
 {% endbox %}
