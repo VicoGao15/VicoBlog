@@ -23,10 +23,12 @@ banner: /assets/cover/gogogo.png
 {% folders %}
 <!-- folder 必备物品 -->
 - 身份证  
+- 少量现金  
+<!-- folder 电子产品 -->
 - 充电宝  
 - 耳机  
 - 充电器  
-- 少量现金  
+- 平板(下载几部电影)
 <!-- folder 衣物保暖 -->
 - 手套  
 - 冲锋衣  
@@ -34,6 +36,7 @@ banner: /assets/cover/gogogo.png
 - 秋裤  
 - 围巾  
 - 冰袖
+- 袜子
 <!-- folder 药物 -->
 - 布洛芬  
 - 蒙脱石散  
@@ -42,7 +45,7 @@ banner: /assets/cover/gogogo.png
 - 驱风油
 <!-- folder 拍照神器 -->
 - 自拍杆  
-- 眼镜  
+- 墨镜 
 - 帽子  
 - 束发带
 <!-- folder 防嗮 -->
