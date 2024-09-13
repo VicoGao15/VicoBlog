@@ -7,7 +7,7 @@ banner: /assets/cover/gogogo.png
 
 #### D1 深圳 > 乌鲁木齐{% icon solar:planet-bold-duotone %}
 {% hashtag 2024.9.17 %} 
-大致行程：早上搭乘飞机，中午抵达乌鲁木齐。集体午饭+入住酒店后，自由活动，去看新疆博物馆。闲逛+新疆美食，晚饭自理。
+> 大致行程：早上搭乘飞机，中午抵达乌鲁木齐。集体午饭+入住酒店后，自由活动，去看新疆博物馆。闲逛+新疆美食，晚饭自理。
 {% box color:light %}
 {% quot 搭乘飞机 %}
 内容内容内容
@@ -28,6 +28,10 @@ banner: /assets/cover/gogogo.png
 {% hashtag 2024.9.19 %} 
 {% box color:light %}
 {% quot 禾木自由行 %}
+内容内容内容
+{% endbox %}
+{% box color:light %}
+{% quot 骑马 %}
 内容内容内容
 {% endbox %}
 
