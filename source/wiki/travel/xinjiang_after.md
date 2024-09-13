@@ -36,6 +36,8 @@ banner: /assets/cover/gogogo.png
 {% box color:light %}
 {% quot 【喀纳斯】 icon:hashtag %}
 内容内容内容
+{% endbox %}
+{% box color:light %}
 {% quot 【五彩滩】 icon:hashtag %}
 内容内容内容
 {% endbox %}
@@ -52,6 +54,8 @@ banner: /assets/cover/gogogo.png
 {% box color:light %}
 {% quot 【坎儿井】 icon:hashtag %}
 内容内容内容
+{% endbox %}
+{% box color:light %}
 {% quot 【维吾尔家访】 icon:hashtag %}
 内容内容内容
 {% endbox %}
@@ -61,6 +65,8 @@ banner: /assets/cover/gogogo.png
 {% box color:light %}
 {% quot 【库木塔格沙漠】 icon:hashtag %}
 内容内容内容
+{% endbox %}
+{% box color:light %}
 {% quot 【火焰山】 icon:hashtag %}
 内容内容内容
 {% endbox %}

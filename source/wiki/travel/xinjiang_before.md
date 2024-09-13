@@ -114,8 +114,6 @@ banner: /assets/cover/gogogo.png
 
 #### 沿途音乐
 {% hashtag 河西走廊之梦 %}{% hashtag 可可托海的牧羊人 %}{% hashtag 新疆是个好地方 %}  
-
 {% hashtag 蓝莲花 %}{% hashtag 曾经的你 %}{% hashtag 温暖 %}  
-
 {% hashtag 平凡之路 %}{% hashtag 风吹麦浪 %}  
 
