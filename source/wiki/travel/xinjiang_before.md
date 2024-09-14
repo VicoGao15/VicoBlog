@@ -15,6 +15,7 @@ banner: /assets/cover/gogogo.png
 #### 新疆纪录片
 {% note 不要看太多，镜头滤镜严重，小心期待值拉地过高，现场景色可能达不到塑造预期。 color:blue %}
 {% mark 1.《我的阿勒泰》 color:yellow %}{% mark 2.《航拍中国-新疆》 color:cyan %}{% mark 3.B站的博主在新疆旅游视频 color:blue %}
+{% note 了解新疆的历史-左宗棠 color:blue %}
 
 #### 面容修理
 {% hashtag 理发 %}{% hashtag 修眉 %}{% hashtag 刮胡子 %}{% hashtag 修指甲 %}
