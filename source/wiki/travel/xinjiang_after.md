@@ -17,7 +17,7 @@ banner: /assets/cover/gogogo.png
 
 #### D2 乌鲁木齐 - 福海/北屯
 {% hashtag 2024/9/18 %}  
-{% box color:yellow %}
+{% box color:cyan %}
 {% quot 【天山天池】 icon:hashtag %}
 内容内容内容
 {% endbox %}
@@ -33,47 +33,47 @@ banner: /assets/cover/gogogo.png
 
 #### D4 禾木 - 布尔津
 {% hashtag 2024/9/20 %} 
-{% box color:yellow %}
+{% box color:cyan %}
 {% quot 【喀纳斯】 icon:hashtag %}
 内容内容内容
 {% endbox %}
-{% box color:yellow %}
+{% box color:cyan %}
 {% quot 【五彩滩】 icon:hashtag %}
 内容内容内容
 {% endbox %}
 
 #### D5 布尔津 - 奎屯
 {% hashtag 2024/9/21 %} 
-{% box color:yellow %}
+{% box color:cyan %}
 {% quot 【魔鬼城】 icon:hashtag %}
 内容内容内容
 {% endbox %}
 
 #### D6 奎屯 - 吐鲁番
 {% hashtag 2024/9/22 %}  
-{% box color:yellow %}
+{% box color:cyan %}
 {% quot 【坎儿井】 icon:hashtag %}
 内容内容内容
 {% endbox %}
-{% box color:yellow %}
+{% box color:cyan %}
 {% quot 【维吾尔家访】 icon:hashtag %}
 内容内容内容
 {% endbox %}
 
 #### D7 吐鲁番 - 乌鲁木齐
 {% hashtag 2024/9/23 %} 
-{% box color:yellow %}
+{% box color:cyan %}
 {% quot 【库木塔格沙漠】 icon:hashtag %}
 内容内容内容
 {% endbox %}
-{% box color:yellow %}
+{% box color:cyan %}
 {% quot 【火焰山】 icon:hashtag %}
 内容内容内容
 {% endbox %}
   
 #### D8 乌鲁木齐 > 深圳
 {% hashtag 2024/9/24 %} 
-{% box color:yellow %}
+{% box color:cyan %}
 {% quot 【国际大巴扎】 icon:hashtag %}
 内容内容内容
 {% endbox %}
