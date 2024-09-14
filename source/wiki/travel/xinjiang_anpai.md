@@ -6,9 +6,8 @@ banner: /assets/cover/gogogo.png
 ---
 
 {% image https://vicoblog-imgbed.netlify.app/ShareFile/集合时间.png 机场集合时间 width:80% %}
-{% image https://vicoblog-imgbed.netlify.app/ShareFile/空客332座位图.png 机场集合时间 width:80% %}
-{% image https://vicoblog-imgbed.netlify.app/ShareFile/选座.jpg 机场集合时间 width:80% %}
-{% image https://vicoblog-imgbed.netlify.app/ShareFile/天山.jpg 机场集合时间 width:80% %}
+{% image https://vicoblog-imgbed.netlify.app/ShareFile/空客332座位图.png 空客332座位图 width:80% %}
+{% image https://vicoblog-imgbed.netlify.app/ShareFile/选座.jpg 选座51排 width:80% %}
 
 #### 公司团游PDF
 {% link https://vicoblog-imgbed.netlify.app/ShareFile/新疆线路分车分组分房.xlsx 新疆线路分车分组分房 icon:/assets/PostImg/XinJiang_Before/xinjiang_pdf.png %}
