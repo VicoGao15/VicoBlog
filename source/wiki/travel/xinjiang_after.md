@@ -12,7 +12,7 @@ banner: /assets/cover/gogogo.png
 {% quot 搭乘飞机 %}
 {% grid %}
 <!-- cell -->
-{% image /assets/wiki/travel/xinjiang/天山山脉.jpg  %}
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/天山山脉.jpg 天山山脉 %}
 <!-- cell -->
 4.00 起床洗漱清点行李后，出发前往机场，在候机厅等了差不多一个小时才登机，沉重的双眼皮也盖不住激动的心。  
 6.50 准时搭乘飞机，第三次体验搭乘飞机，樱同学第一次，还是有点害怕的。飞机进入新疆境内时远远看到了天山山脉，山顶上白雪皑皑。也许是太远了，虽没有想象中那么壮阔，但第一次亲眼看见雪山，还是激动不已。
@@ -20,7 +20,7 @@ banner: /assets/cover/gogogo.png
 {% quot 新疆博物馆 %}
 {% grid %}
 <!-- cell -->
-{% image /assets/wiki/travel/xinjiang/新疆博物馆.jpg %}
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/新疆博物馆.jpg 新疆博物馆 %}
 <!-- cell -->
 博物馆看完了，印象就是很多具干尸、很多个大小铜镜、也很多陶陶罐罐。没啥兴趣，打卡而已。  
 倒是作为模特拍了几张好看的照片。
@@ -28,7 +28,7 @@ banner: /assets/cover/gogogo.png
 {% quot 乌鲁木齐市区 %}
 {% grid %}
 <!-- cell -->
-{% image /assets/wiki/travel/xinjiang/大巴扎.jpg %}
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/大巴扎.jpg 大巴扎 %}
 <!-- cell -->
 国际大巴扎、金泉商店、和田二街
 1. 打车前往国际大巴扎，挺热闹的，大巴扎这里没逛了一会儿，就往普通街道走了，大家一起吃了烤包子，羊肉串，烤羊排，还挺便宜的。  
@@ -44,7 +44,7 @@ banner: /assets/cover/gogogo.png
 {% quot 【天山天池】 icon:hashtag %}
 {% grid %}
 <!-- cell -->
-{% image /assets/wiki/travel/xinjiang/天山天池.jpg %}
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/天山天池.jpg 天山天池 %}
 <!-- cell -->
 盘山公路很陡峭，路程上的翠绿山峰草地与天池云杉配合，那上面一定很好玩。天山天池个人觉就很一般，一个湖，倒是旁边的山体好看些，远处的博格达峰用望远镜也能稍微一窥雄伟身姿，山顶的积雪，像是披上了一条白色披肩。
 {% endgrid %}
@@ -53,7 +53,7 @@ banner: /assets/cover/gogogo.png
 {% quot 横穿准噶尔盆地 %}
 {% grid %}
 <!-- cell -->
-{% image /assets/wiki/travel/xinjiang/S21阿乌高速.jpg  %}
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/S21阿乌高速.jpg 日落 %}
 <!-- cell -->
 从天山天池出来后，接下来要沿S21阿乌高速直穿准噶尔盆地/古尔班通古特沙漠。我直接爬到了导游右边的前排VIP位置上，全程欣赏沙漠戈壁的风景，体验感饱满。配合望远镜观察公路两边的远处戈壁滩，体验置身世外的荒凉感。全程7小时。
 {% endgrid %}
@@ -67,7 +67,7 @@ banner: /assets/cover/gogogo.png
 {% quot 云霄峰玩雪 %}
 {% grid %}
 <!-- cell -->
-{% image /assets/wiki/travel/xinjiang/云霄峰玩雪.jpg  %}
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/雪山.jpg 云霄峰玩雪 %}
 <!-- cell -->
 抵达禾木新村吃完午饭后，导游直接载我们到云霄峰索道，坐索道188/人。一路上索道没什么意思，只想着快点到达山顶，最好有雪。
 到达山顶，好多雪呀，还是晴空万里。广东人第一次玩雪，这里玩着特别嗨，拍了好多好看的照片，特别是那几个摄影师拍的。玩了一个半小时，依依不舍地下山，这自费项目钱花的最值了。
@@ -76,7 +76,7 @@ banner: /assets/cover/gogogo.png
 {% quot 骑马 %}
 {% grid %}
 <!-- cell -->
-{% image /assets/wiki/travel/xinjiang/骑马.jpg  %}
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/骑马.jpg 骑马 %}
 <!-- cell -->
 也是特别棒的一次体验。整个过程也有一个小时。160/人，骑20min到达观景台，20min拍照，再原路花20min骑马回来。唯一的遗憾就是骑马大部分时间都是在爬高下坡，很短的一段距离骑得快一点，要是有时间去大美丽峰小美丽峰就好了，听说那边更好看。
 {% endgrid %}
@@ -93,11 +93,11 @@ banner: /assets/cover/gogogo.png
 {% quot 【喀纳斯】 icon:hashtag %}
 {% grid %}
 <!-- cell -->
-{% image /assets/wiki/travel/xinjiang/喀纳斯.jpg  %}
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/喀纳斯.jpg 喀纳斯 %}
 <!-- cell -->
 12.30 搭乘景区区间大巴前往喀纳斯湖，途径三湾:卧龙湾，月亮湾，神仙湾，区间车大巴上也拍了几张沿途美景。
 13.30. 抵达喀纳斯湖观景台，湖水很蓝，但是好像也没什么好看的，拍几个照片就行。没去游船，120/人，感觉不太值。
-14. 导游打算大家带大家去观鱼台，且需要预约，经大家一致同意，不去了，直接往神仙湾徒步。
+1.  导游打算大家带大家去观鱼台，且需要预约，经大家一致同意，不去了，直接往神仙湾徒步。
 徒步好累呀，但是也体验了前所未有的景色，靠近河边，玩弄河水，松树林间小路。拍了好几个视频，还有挺多照片。
 徒步一个多小时，爬了一个一百米高的森林大坡，才到月亮湾，此时已经16.30，樱同学都已经累的快走不动了。
 {% endgrid %}
@@ -106,7 +106,7 @@ banner: /assets/cover/gogogo.png
 {% quot 【五彩滩】 icon:hashtag %}
 {% grid %}
 <!-- cell -->
-{% image /assets/wiki/travel/xinjiang/五彩滩1.jpg  %}
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/五彩滩1.jpg 五彩滩 %}
 <!-- cell -->
 五彩滩没啥好看的，那些石头看不出来啥颜色，之前看过了甘肃的七彩丹霞，这次的五彩滩号称小七彩丹霞，真不太想去的。五彩滩需要配合日落的阳关照射才能显示她的五彩，非常不幸运，这天的日落有云层遮挡。
 {% endgrid %}
@@ -114,7 +114,7 @@ banner: /assets/cover/gogogo.png
 <!-- cell -->
 不过我倒觉得五彩滩能走的开放地方比七彩丹霞好，还有额尔齐斯河，还有桥，如果能去桥那边拍照就很好看，还有对面的树林，可惜都在景区外，只有看到几个自驾的在对面拍照。
 <!-- cell -->
-{% image /assets/wiki/travel/xinjiang/五彩滩2.jpg  %}
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/五彩滩2.jpg 五彩滩2 %}
 {% endgrid %}
 {% endbox %}
 
@@ -166,7 +166,7 @@ banner: /assets/cover/gogogo.png
 {% quot 【库木塔格沙漠】 icon:hashtag %}
 {% grid %}
 <!-- cell -->
-{% image /assets/wiki/travel/xinjiang/库木塔格沙漠.jpg  %}
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/库木塔格沙漠.jpg 库木塔格沙漠 %}
 <!-- cell -->
 库木塔格沙漠风景区，可以玩三个小时。
 租了滑板，15块钱，刚进去就爬一个沙漠大斜坡，爬了半个小时，烫脚，累，最后终于爬上来了顶。
