@@ -40,8 +40,14 @@ banner: /assets/cover/gogogo.png
 坐车盘山公路一路开到禾木村，途中的景色真好看，云杉还有乔木黄绿交错，还有山顶平原，大巴车在半路上一个地方停了二十分钟，我们沿着斜坡走下去，视野开阔，不远处的小树林就有未融化的雪，还有骑马走来的一行人，询问马夫，80/人，挺不错的，这里景色好看，也不贵，可惜没时间了，只能依依不舍上车走了。
 {% box color:light %}
 {% quot 云霄峰玩雪 %}
+{% grid %}
+<!-- cell -->
+{% image https://images.unsplash.com/photo-1653979731557-530f259e0c2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80 download:https://unsplash.com/photos/bcql6CtuNv0/download?ixid=MnwxMjA3fDB8MXx0b3BpY3x8NnNNVmpUTFNrZVF8fHx8fDJ8fDE2Njg4NDAxMDI&force=true %}
+<!-- cell -->
 抵达禾木新村吃完午饭后，导游直接载我们到云霄峰索道，坐索道188/人。一路上索道没什么意思，只想着快点到达山顶，最好有雪。
 到达山顶，好多雪呀，还是晴空万里。广东人第一次玩雪，这里玩着特别嗨呀，拍了好多好看的照片，特别是那几个摄影师拍的。玩了一个半小时，依依不舍地下山，这自费项目钱花的最值了。
+{% endgrid %}
+
 {% quot 骑马 %}
 也是特别棒的一次体验。整个过程也有一个小时。160/人，骑20min到达观景台，20min拍照，再原路花20min骑马回来。唯一的遗憾就是骑马大部分时间都是在爬高下坡，很短的一段距离骑得快一点，要是有时间去大美丽峰小美丽峰就好了，听说那边更好看。
 {% quot 篝火晚会 %}
