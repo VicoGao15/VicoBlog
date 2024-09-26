@@ -20,16 +20,21 @@ banner: /assets/cover/gogogo.png
 {% quot 新疆博物馆 %}
 {% grid %}
 <!-- cell -->
-{% image /assets/wiki/travel/xinjiang/新疆博物馆.jpg  %}
+{% image /assets/wiki/travel/xinjiang/新疆博物馆.jpg %}
 <!-- cell -->
 博物馆看完了，印象就是很多具干尸、很多个大小铜镜、也很多陶陶罐罐。没啥兴趣，打卡而已。  
 倒是作为模特拍了几张好看的照片。
 {% endgrid %}
 {% quot 乌鲁木齐市区 %}
+{% grid %}
+<!-- cell -->
+{% image /assets/wiki/travel/xinjiang/大巴扎.jpg %}
+<!-- cell -->
 国际大巴扎、金泉商店、和田二街
 1. 打车前往国际大巴扎，挺热闹的，大巴扎这里没逛了一会儿，就往普通街道走了，大家一起吃了烤包子，羊肉串，烤羊排，还挺便宜的。  
 2. 逛逛金泉广场，碰到了其他车的几个女的，他们买买买，我们买了披肩和两个冰箱贴，最后一天回来再购买纪念品和特产吧。  
 3. 走路前往和田二街，买小吃，吃夜宵。路边突然看到天上的大圆月亮，才想起今天是中秋节。望远镜小试牛刀，看月亮看的非常清晰。
+{% endgrid %}
 {% endbox %}
 
 #### D2 乌鲁木齐 - 阿勒泰
@@ -39,14 +44,19 @@ banner: /assets/cover/gogogo.png
 {% quot 【天山天池】 icon:hashtag %}
 {% grid %}
 <!-- cell -->
-{% image /assets/wiki/travel/xinjiang/天山天池.jpg  %}
+{% image /assets/wiki/travel/xinjiang/天山天池.jpg %}
 <!-- cell -->
 盘山公路很陡峭，路程上的翠绿山峰草地与天池云杉配合，那上面一定很好玩。天山天池个人觉就很一般，一个湖，倒是旁边的山体好看些，远处的博格达峰用望远镜也能稍微一窥雄伟身姿，山顶的积雪，像是披上了一条白色披肩。
 {% endgrid %}
 {% endbox %}
 {% box color:light %}
-{% quot 横穿准噶尔盆地 icon:hashtag %}
+{% quot 横穿准噶尔盆地 %}
+{% grid %}
+<!-- cell -->
+{% image /assets/wiki/travel/xinjiang/S21阿乌高速.jpg  %}
+<!-- cell -->
 从天山天池出来后，接下来要沿S21阿乌高速直穿准噶尔盆地/古尔班通古特沙漠。我直接爬到了导游右边的前排VIP位置上，全程欣赏沙漠戈壁的风景，体验感饱满。配合望远镜观察公路两边的远处戈壁滩，体验置身世外的荒凉感。全程7小时。
+{% endgrid %}
 {% endbox %}
 
 #### D3 阿勒泰市 - 禾木
