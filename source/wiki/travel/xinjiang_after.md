@@ -133,7 +133,12 @@ banner: /assets/cover/gogogo.png
 午饭吃羊拐抓饭，一人一个羊肘子，一盘米饭。
 {% box color:cyan %}
 {% quot 【魔鬼城】 icon:hashtag %}
+{% grid %}
+<!-- cell -->
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/魔鬼城1.jpg 魔鬼城 %}
+<!-- cell -->
 里面还是很大的，五个站点，搭乘小火车只玩了其中二四两个，往里走，走在戈壁滩无人区的感觉。也特别喜欢这种荒凉的感觉。
+{% endgrid %}
 {% endbox %}
 
 #### D6 奎屯 - 吐鲁番
@@ -149,8 +154,13 @@ banner: /assets/cover/gogogo.png
 {% endbox %}
 {% box color:cyan %}
 {% quot 【维吾尔家访】 icon:hashtag %}
+{% grid %}
+<!-- cell -->
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/维吾尔家访.jpg 维吾尔家访 %}
+<!-- cell -->
 给我们介绍了相关礼仪习俗，吃了西瓜水果，表演了跳舞节目，学习了几个维族语言词汇，巴朗子-没结婚的小伙子，巴依老爷-已结婚的男人，古丽-没结婚的姑娘，巴依太太-已结婚的女人，嚯西-再见，还有之前学的:亚克西-你好。
 之后就是售卖环节了，介绍了几种葡萄干的制作方式和如何判断葡萄干好坏，支持了50块。
+{% endgrid %}
 {% endbox %}
 > 21. 骑小电动去葡萄夜市，这里只有烧烤摊，还有两只小小马，给它梳了个斜刘海
 22. 骑小电动去西游步行街，这里倒更像是夜市，路边摆摊比较多，吃的，有灯光闪闪马车，10/人，没去坐，买了一个大哈密瓜，特别甜，肉特别多，不像我们那边一半都是皮，而且才10块钱一个，很便宜了，六个人每人吃两掰，有点撑
@@ -160,7 +170,12 @@ banner: /assets/cover/gogogo.png
 {% hashtag 2024/9/23 %} 
 {% box color:cyan %}
 {% quot 【火焰山】 icon:hashtag %}
+{% grid %}
+<!-- cell -->
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/火焰山.jpg 火焰山 %}
+<!-- cell -->
 也没什么好看的，拍了一些照片，倒是有些火星的荒凉感。大家匆匆回到大巴，才光缆了半个小时，直接去沙漠玩多一会儿。
+{% endgrid %}
 {% endbox %}
 {% box color:cyan %}
 {% quot 【库木塔格沙漠】 icon:hashtag %}
