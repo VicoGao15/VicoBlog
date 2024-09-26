@@ -204,6 +204,12 @@ banner: /assets/cover/库木塔格沙漠.jpg
 大巴扎周围逛了一圈，买了纪念品冰箱贴和三个小包包，干果早市上买了，带回家送给家人。
 {% endgrid %}
 {% endbox %}
+
+{% grid %}
+<!-- cell -->
 {% image https://vicoblog-imgbed.netlify.app/xinjiang/飞机回程.jpg 海南航空 %}
+<!-- cell -->
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/飞机回程2.jpg 乌鲁木齐地窝堡机场 %}
+{% endgrid %}
 > 19. 飞机返程深圳，本次新疆之旅完美结束。
 
