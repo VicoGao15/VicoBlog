@@ -193,15 +193,22 @@ banner: /assets/cover/库木塔格沙漠.jpg
   
 #### D8 乌鲁木齐 > 深圳
 {% hashtag 2024/9/24 %} 
-> 早上8.起床去早市，东西不算多，但类型齐全，干果买的比较多，吃了新鲜烤上来的囊，很好吃，脆脆的。
-10. 回来收拾好，搭乘大巴去大巴扎了。再去那边买点纪念品好了。
 {% box color:cyan %}
-{% quot 【国际大巴扎】 icon:hashtag %}
+{% quot 人民公园早市 %}
+{% grid %}
+<!-- cell -->
+早上8.起床去早市，东西不算多，但类型齐全，干果买的比较多，吃了新鲜烤上来的囊，很好吃，脆脆的。
+10. 回来赶回来收拾好，搭乘大巴去大巴扎了。再去那边买点纪念品好了。
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/早市囊.jpg 早市囊 %}
+<!-- cell -->
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/早市.jpg 早市 %}
+{% endgrid %}
+{% quot 金泉商店 %}
 {% grid %}
 <!-- cell -->
 {% image https://vicoblog-imgbed.netlify.app/xinjiang/买冰箱贴.jpg 买冰箱贴 %}
 <!-- cell -->
-大巴扎周围逛了一圈，买了纪念品冰箱贴和三个小包包，干果早市上买了，带回家送给家人。
+本来是安排最后一天去大巴扎逛的，我们第一天去了，但还是被大巴拉过来，刚好第一天没有逛完金泉商店，一栋楼几层都是卖纪念品的。逛了一圈，买了纪念品冰箱贴和三个小包包，干果早市上买了，带回家送给家人。
 {% endgrid %}
 {% endbox %}
 
