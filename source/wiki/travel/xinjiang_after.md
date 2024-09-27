@@ -58,7 +58,12 @@ Vicky:在博物馆一个石雕壁画前拍了几张照片很好看，相机拍�
 {% image https://vicoblog-imgbed.netlify.app/xinjiang/天山天池.jpg 天山天池 %}
 <!-- cell -->
 盘山公路很陡峭，路程上的翠绿山峰草地与天池云杉配合，那上面一定很好玩。天山天池个人觉就很一般，一个湖，倒是旁边的山体好看些，远处的博格达峰用望远镜也能稍微一窥雄伟身姿，山顶的积雪，像是披上了一条白色披肩。
+{% endgrid %}
+{% grid %}
+<!-- cell -->
 Vicky:天池其实还是很好看的，一口湖蓝色非常漂亮，在广东好像没见过这种湖蓝色的，还有喀纳斯也是蓝色的，那边的湖都很干净，颜色就像是小时候课本里的插画那么标准的色彩
+<!-- cell -->
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/天山天池2.jpg 天山天池2 %}
 {% endgrid %}
 {% endbox %}
 {% box color:light %}
