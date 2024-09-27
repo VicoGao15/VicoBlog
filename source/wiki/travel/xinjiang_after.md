@@ -209,7 +209,7 @@ Vicky:玩雪真好玩，虽然不是北方那种很干很疏松的雪，但我�
 {% image https://vicoblog-imgbed.netlify.app/xinjiang/火焰山1.jpg 火焰山 %}
 <!-- cell -->
 也没什么好看的，拍了一些照片，倒是有些火星的荒凉感。大家匆匆回到大巴，才光缆了半个小时，直接去沙漠玩多一会儿。
-{% image https://vicoblog-imgbed.netlify.app/xinjiang/火焰山1.jpg 火焰山 %}
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/火焰山.jpg 火焰山 %}
 {% endgrid %}
 {% endbox %}
 {% box color:cyan %}
@@ -259,6 +259,8 @@ Vicky:第一次去沙漠玩着实把我累着了，这坡看起来不长。但�
 {% image https://vicoblog-imgbed.netlify.app/xinjiang/飞机回程.jpg 海南航空 %}
 <!-- cell -->
 {% image https://vicoblog-imgbed.netlify.app/xinjiang/飞机回程2.jpg 乌鲁木齐地窝堡机场 %}
+<!-- cell -->
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/飞机回程3.jpg 云端日落 %}
 {% endgrid %}
 > 19. 飞机返程深圳，本次新疆之旅完美结束。
 
