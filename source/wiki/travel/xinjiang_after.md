@@ -258,9 +258,8 @@ Vicky:第一次去沙漠玩着实把我累着了，这坡看起来不长。但�
 <!-- cell -->
 {% image https://vicoblog-imgbed.netlify.app/xinjiang/飞机回程.jpg 海南航空 %}
 <!-- cell -->
-{% image https://vicoblog-imgbed.netlify.app/xinjiang/飞机回程2.jpg 乌鲁木齐地窝堡机场 %}
-<!-- cell -->
 {% image https://vicoblog-imgbed.netlify.app/xinjiang/飞机回程3.jpg 云端日落 %}
+<!-- cell -->
 {% endgrid %}
 > 19. 飞机返程深圳，本次新疆之旅完美结束。
 
