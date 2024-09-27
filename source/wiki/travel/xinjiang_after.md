@@ -163,9 +163,10 @@ Vicky:玩雪真好玩，虽然不是北方那种很干很疏松的雪，但我�
 {% quot 【魔鬼城】 icon:hashtag %}
 {% grid %}
 <!-- cell -->
-{% image https://vicoblog-imgbed.netlify.app/xinjiang/魔鬼城1.jpg 魔鬼城 %}
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/魔鬼城.jpg 魔鬼城 %}
 <!-- cell -->
 里面还是很大的，五个站点，搭乘小火车只玩了其中二四两个，往里走，走在戈壁滩无人区的感觉。也特别喜欢这种荒凉的感觉。
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/魔鬼城1.jpg 魔鬼城 %}
 {% endgrid %}
 {% endbox %}
 
