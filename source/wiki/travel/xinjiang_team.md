@@ -1,7 +1,7 @@
 ---
 layout: wiki  # 使用wiki布局模板
 wiki: wiki-travel # 这是项目名
-title: 新疆-行程安排 # 这是标题名称
+title: 新疆-团队合影 # 这是标题名称
 banner: https://vicoblog-imgbed.netlify.app/xinjiang/Team/大巴.jpg
 ---
 
