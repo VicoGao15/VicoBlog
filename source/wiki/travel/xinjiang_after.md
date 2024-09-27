@@ -206,22 +206,28 @@ Vicky:玩雪真好玩，虽然不是北方那种很干很疏松的雪，但我�
 {% quot 【火焰山】 icon:hashtag %}
 {% grid %}
 <!-- cell -->
-{% image https://vicoblog-imgbed.netlify.app/xinjiang/火焰山.jpg 火焰山 %}
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/火焰山1.jpg 火焰山 %}
 <!-- cell -->
 也没什么好看的，拍了一些照片，倒是有些火星的荒凉感。大家匆匆回到大巴，才光缆了半个小时，直接去沙漠玩多一会儿。
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/火焰山1.jpg 火焰山 %}
 {% endgrid %}
 {% endbox %}
 {% box color:cyan %}
 {% quot 【库木塔格沙漠】 icon:hashtag %}
 {% grid %}
 <!-- cell -->
-{% image https://vicoblog-imgbed.netlify.app/xinjiang/库木塔格沙漠.jpg 库木塔格沙漠 %}
-<!-- cell -->
 库木塔格沙漠风景区，可以玩三个小时。
 租了滑板，15块钱，刚进去就爬一个沙漠大斜坡，爬了半个小时，烫脚，累，最后终于爬上来了顶。
 在顶上玩了几回小的滑坡，有点感觉，但好像不快不刺激。
 中间songguopeng的手机掉了，找了好久。找华为客服定位手机，最后还是老王找到了，在滑坡的时候掉了。
 最后两个人滑了个大的坡，直接就下去了。
+<!-- cell -->
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/库木塔格沙漠.jpg 库木塔格沙漠 %}
+{% endgrid %}
+{% grid %}
+<!-- cell -->
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/库木塔格沙漠1.jpg 库木塔格沙漠 %}
+<!-- cell -->
 Vicky:第一次去沙漠玩着实把我累着了，这坡看起来不长。但爬起来真的能那人累死，不是我菜，男的来爬都得歇菜。每踩一脚只能前进几公分，因为沙子太软而且有流动性，所以每前进一脚都会陷进去几公分，沙漠里又热又干又渴又累。真应该有开始就去坐沙漠摩托，我承认，这钱该他赚。
 {% endgrid %}
 {% endbox %}
@@ -244,6 +250,7 @@ Vicky:第一次去沙漠玩着实把我累着了，这坡看起来不长。但�
 {% image https://vicoblog-imgbed.netlify.app/xinjiang/买冰箱贴.jpg 买冰箱贴 %}
 <!-- cell -->
 本来是安排最后一天去大巴扎逛的，我们第一天去了，但还是被大巴拉过来，刚好第一天没有逛完金泉商店，一栋楼几层都是卖纪念品的。逛了一圈，买了纪念品冰箱贴和三个小包包，干果早市上买了，带回家送给家人。
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/citywalk.jpg City Walk %}
 {% endgrid %}
 {% endbox %}
 
