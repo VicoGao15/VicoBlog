@@ -2,7 +2,7 @@
 layout: wiki  # 使用wiki布局模板
 wiki: wiki-travel # 这是项目名
 title: 新疆-总结 # 这是标题名称
-banner: /assets/cover/魔鬼城1.jpg
+banner: https://vicoblog-imgbed.netlify.app/xinjiang/魔鬼城1.jpg
 ---
 
 #### D1 深圳 > 乌鲁木齐{% icon solar:planet-bold-duotone %}
@@ -63,7 +63,7 @@ Vicky:在博物馆一个石雕壁画前拍了几张照片很好看，相机拍�
 <!-- cell -->
 Vicky:天池其实还是很好看的，一口湖蓝色非常漂亮，在广东好像没见过这种湖蓝色的，还有喀纳斯也是蓝色的，那边的湖都很干净，颜色就像是小时候课本里的插画那么标准的色彩
 <!-- cell -->
-{% image https://vicoblog-imgbed.netlify.app/xinjiang/天山天池2.jpg 天山天池2 %}
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/天山天池2.jpg 天山天池 %}
 {% endgrid %}
 {% endbox %}
 {% box color:light %}
@@ -106,7 +106,7 @@ Vicky:玩雪真好玩，虽然不是北方那种很干很疏松的雪，但我�
 {% image https://vicoblog-imgbed.netlify.app/xinjiang/骑马.jpg 骑马 %}
 <!-- cell -->
 也是特别棒的一次体验。整个过程也有一个小时。160/人，骑20min到达观景台，20min拍照，再原路花20min骑马回来。唯一的遗憾就是骑马大部分时间都是在爬高下坡，很短的一段距离骑得快一点，要是有时间去大美丽峰小美丽峰就好了，听说那边更好看。
-{% image https://vicoblog-imgbed.netlify.app/xinjiang/骑马1.jpg 骑马 %}
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/骑马1.jpg 骑马小跑 %}
 {% endgrid %}
 {% quot 篝火晚会 %}
 篝火晚会，一起蹦哒，跟着木地板上下晃动的节奏，嗨翻天了。终于明白为什么有些人那么喜欢蹦迪了。
@@ -143,7 +143,7 @@ Vicky:玩雪真好玩，虽然不是北方那种很干很疏松的雪，但我�
 <!-- cell -->
 不过我倒觉得五彩滩能走的开放地方比七彩丹霞好，还有额尔齐斯河，还有桥，如果能去桥那边拍照就很好看，还有对面的树林，可惜都在景区外，只有看到几个自驾的在对面拍照。
 <!-- cell -->
-{% image https://vicoblog-imgbed.netlify.app/xinjiang/五彩滩2.jpg 五彩滩2 %}
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/五彩滩2.jpg 桥 %}
 {% endgrid %}
 {% endbox %}
 
@@ -207,7 +207,7 @@ Vicky:玩雪真好玩，虽然不是北方那种很干很疏松的雪，但我�
 {% quot 【火焰山】 icon:hashtag %}
 {% grid %}
 <!-- cell -->
-{% image https://vicoblog-imgbed.netlify.app/xinjiang/火焰山1.jpg 火焰山 %}
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/火焰山1.jpg 遥望 %}
 <!-- cell -->
 也没什么好看的，拍了一些照片，倒是有些火星的荒凉感。大家匆匆回到大巴，才光缆了半个小时，直接去沙漠玩多一会儿。
 {% image https://vicoblog-imgbed.netlify.app/xinjiang/火焰山.jpg 火焰山 %}
@@ -223,7 +223,7 @@ Vicky:玩雪真好玩，虽然不是北方那种很干很疏松的雪，但我�
 中间songguopeng的手机掉了，找了好久。找华为客服定位手机，最后还是老王找到了，在滑坡的时候掉了。
 最后两个人滑了个大的坡，直接就下去了。
 <!-- cell -->
-{% image https://vicoblog-imgbed.netlify.app/xinjiang/库木塔格沙漠.jpg 库木塔格沙漠 %}
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/库木塔格沙漠.jpg 沙漠行军蚁 %}
 {% endgrid %}
 {% grid %}
 <!-- cell -->
@@ -242,7 +242,7 @@ Vicky:第一次去沙漠玩着实把我累着了，这坡看起来不长。但�
 早上8.起床去早市，东西不算多，但类型齐全，干果买的比较多，吃了新鲜烤上来的囊，很好吃，肉酥皮脆，三块钱一个，一个掰两半，我吃一半都吃不完。10. 回来赶回来收拾好，搭乘大巴去大巴扎了。再去那边买点纪念品好了。
 {% image https://vicoblog-imgbed.netlify.app/xinjiang/早市.jpg 早市 %}
 <!-- cell -->
-{% image https://vicoblog-imgbed.netlify.app/xinjiang/早市囊.jpg 早市囊 %}
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/早市囊.jpg 囊 %}
 {% endgrid %}
 {% quot 金泉商店 %}
 {% grid %}
