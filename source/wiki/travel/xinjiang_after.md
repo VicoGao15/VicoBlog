@@ -120,13 +120,14 @@ Vicky:玩雪真好玩，虽然不是北方那种很干很疏松的雪，但我�
 {% quot 【喀纳斯】 icon:hashtag %}
 {% grid %}
 <!-- cell -->
-{% image https://vicoblog-imgbed.netlify.app/xinjiang/喀纳斯.jpg 喀纳斯 %}
-<!-- cell -->
 12.30 搭乘景区区间大巴前往喀纳斯湖，途径三湾:卧龙湾，月亮湾，神仙湾，区间车大巴上也拍了几张沿途美景。
 13.30. 抵达喀纳斯湖观景台，湖水很蓝，但是好像也没什么好看的，拍几个照片就行。没去游船，120/人，感觉不太值。
 导游打算大家带大家去观鱼台，且需要预约，经大家一致同意，不去了，直接往神仙湾徒步。
 徒步好累呀，但是也体验了前所未有的景色，靠近河边，玩弄河水，松树林间小路。拍了好几个视频，还有挺多照片。
 徒步一个多小时，爬了一个一百米高的森林大坡，才到月亮湾，此时已经16.30，樱同学都已经累的快走不动了。
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/喀纳斯.jpg 喀纳斯 %}
+<!-- cell -->
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/喀纳斯1.jpg 喀纳斯 %}
 {% endgrid %}
 {% endbox %}
 {% box color:cyan %}
