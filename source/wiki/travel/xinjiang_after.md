@@ -105,6 +105,7 @@ Vicky:玩雪真好玩，虽然不是北方那种很干很疏松的雪，但我�
 {% image https://vicoblog-imgbed.netlify.app/xinjiang/骑马.jpg 骑马 %}
 <!-- cell -->
 也是特别棒的一次体验。整个过程也有一个小时。160/人，骑20min到达观景台，20min拍照，再原路花20min骑马回来。唯一的遗憾就是骑马大部分时间都是在爬高下坡，很短的一段距离骑得快一点，要是有时间去大美丽峰小美丽峰就好了，听说那边更好看。
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/骑马1.jpg 骑马 %}
 {% endgrid %}
 {% quot 篝火晚会 %}
 篝火晚会，一起蹦哒，跟着木地板上下晃动的节奏，嗨翻天了。终于明白为什么有些人那么喜欢蹦迪了。
