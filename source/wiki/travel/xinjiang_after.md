@@ -211,6 +211,7 @@ Vicky:玩雪真好玩，虽然不是北方那种很干很疏松的雪，但我�
 <!-- cell -->
 {% image https://vicoblog-imgbed.netlify.app/xinjiang/火焰山1.jpg 遥望 %}
 <!-- cell -->
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/火焰山2.jpg 吐鲁番公路边的山 %}
 也没什么好看的，拍了一些照片，倒是有些火星的荒凉感。大家匆匆回到大巴，才光缆了半个小时，直接去沙漠玩多一会儿。
 {% image https://vicoblog-imgbed.netlify.app/xinjiang/火焰山.jpg 火焰山 %}
 {% endgrid %}
