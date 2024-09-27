@@ -91,10 +91,11 @@ Vicky:这一路的风景真好看你知道吧，就是大家在网上经常刷�
 {% quot 云霄峰玩雪 %}
 {% grid %}
 <!-- cell -->
-{% image https://vicoblog-imgbed.netlify.app/xinjiang/云霄峰.jpg 云霄峰 %}
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/缆车.jpg 缆车 %}
 抵达禾木新村吃完午饭后，导游直接载我们到云霄峰索道，坐索道188/人。一路上索道没什么意思，只想着快点到达山顶，最好有雪。
 到达山顶，好多雪呀，还是晴空万里。广东人第一次玩雪，这里玩着特别嗨，拍了好多好看的照片，特别是那几个摄影师拍的。玩了一个半小时，依依不舍地下山，这自费项目钱花的最值了。
 Vicky:玩雪真好玩，虽然不是北方那种很干很疏松的雪，但我们也玩的不亦乐乎。
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/云霄峰.jpg 云霄峰 %}
 <!-- cell -->
 {% image https://vicoblog-imgbed.netlify.app/xinjiang/雪山.jpg 踢雪 %}
 {% endgrid %}
@@ -193,7 +194,7 @@ Vicky:玩雪真好玩，虽然不是北方那种很干很疏松的雪，但我�
 {% image https://vicoblog-imgbed.netlify.app/xinjiang/维吾尔家访.jpg 维吾尔家访 %}
 <!-- cell -->
 给我们介绍了相关礼仪习俗，吃了西瓜水果，表演了跳舞节目，学习了几个维族语言词汇，巴朗子-没结婚的小伙子，巴依老爷-已结婚的男人，古丽-没结婚的姑娘，巴依太太-已结婚的女人，嚯西-再见，还有之前学的:亚克西-你好/好。
-之后就是售卖环节了，介绍了几种葡萄干的制作方式和如何判断葡萄干好坏，支持了50块。
+之后就是售卖环节了，介绍了几种葡萄干的制作方式和如何判断葡萄干好坏，实力有限，支持了50块。
 {% endgrid %}
 {% endbox %}
 > 21. 骑小电动去葡萄夜市，这里只有烧烤摊，还有两只小小马，给它梳了个斜刘海
@@ -238,19 +239,18 @@ Vicky:第一次去沙漠玩着实把我累着了，这坡看起来不长。但�
 {% quot 人民公园早市 %}
 {% grid %}
 <!-- cell -->
-早上8.起床去早市，东西不算多，但类型齐全，干果买的比较多，吃了新鲜烤上来的囊，很好吃，脆脆的。
-10. 回来赶回来收拾好，搭乘大巴去大巴扎了。再去那边买点纪念品好了。
-{% image https://vicoblog-imgbed.netlify.app/xinjiang/早市囊.jpg 早市囊 %}
-<!-- cell -->
+早上8.起床去早市，东西不算多，但类型齐全，干果买的比较多，吃了新鲜烤上来的囊，很好吃，肉酥皮脆，三块钱一个，一个掰两半，我吃一半都吃不完。10. 回来赶回来收拾好，搭乘大巴去大巴扎了。再去那边买点纪念品好了。
 {% image https://vicoblog-imgbed.netlify.app/xinjiang/早市.jpg 早市 %}
+<!-- cell -->
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/早市囊.jpg 早市囊 %}
 {% endgrid %}
 {% quot 金泉商店 %}
 {% grid %}
 <!-- cell -->
-{% image https://vicoblog-imgbed.netlify.app/xinjiang/买冰箱贴.jpg 买冰箱贴 %}
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/citywalk.jpg City Walk %}
 <!-- cell -->
 本来是安排最后一天去大巴扎逛的，我们第一天去了，但还是被大巴拉过来，刚好第一天没有逛完金泉商店，一栋楼几层都是卖纪念品的。逛了一圈，买了纪念品冰箱贴和三个小包包，干果早市上买了，带回家送给家人。
-{% image https://vicoblog-imgbed.netlify.app/xinjiang/citywalk.jpg City Walk %}
+{% image https://vicoblog-imgbed.netlify.app/xinjiang/买冰箱贴.jpg 买冰箱贴 %}
 {% endgrid %}
 {% endbox %}
 
