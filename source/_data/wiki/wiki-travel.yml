@@ -8,7 +8,7 @@ coverpage: false # 默认是 false
 description: 此文档用于记录旅游、游玩的日记或者攻略
 repo: vicogao15/vicoblog
 search:
-  filter: /wiki/trevel/
+  filter: /wiki/travel/
   placeholder: 在 travel 中搜索...
 leftbar: 
   - tree
