@@ -8,7 +8,7 @@ coverpage: false # 默认是 false
 description: 此文档用于记录2024年日记记录
 repo: vicogao15/vicoblog
 search:
-  filter: /wiki/note/
+  filter: /wiki/LifeNotes/
   placeholder: 在 2024 中搜索...
 leftbar: 
   - tree
@@ -19,7 +19,7 @@ comments:
   service: beaudar
   beaudar:
     data-repo: vicoblog/vicoblog-comments
-base_dir: /wiki/note/
+base_dir: /wiki/LifeNotes/
 tree:
   '首页':
     - IssueNote
