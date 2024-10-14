@@ -1,6 +1,6 @@
 ---
 layout: wiki  # 使用wiki布局模板
-wiki: wiki-aaa
+wiki: lifenote
 title: 《年后遗症》
 subtitle: 2024/02/26 正月十七
 --- 

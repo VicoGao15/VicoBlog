@@ -1,6 +1,6 @@
 ---
 layout: wiki  # 使用wiki布局模板
-wiki: wiki-travel # 这是项目名s
+wiki: travel # 这是项目名s
 title: 香港-游记
 date: 2024-07-27 20:14:19
 cover: /assets/cover/cover_hk.png

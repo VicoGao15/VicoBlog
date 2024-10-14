@@ -1,6 +1,6 @@
 ---
 layout: wiki  # 使用wiki布局模板
-wiki: wiki-aaa
+wiki: lifenote
 title: 台式机配置单
 banner: /assets/cover/computer.jpg
 --- 

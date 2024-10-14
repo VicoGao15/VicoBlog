@@ -1,6 +1,6 @@
 ---
 layout: wiki  # 使用wiki布局模板
-wiki: wiki-vue # 这是项目名
+wiki: vue # 这是项目名
 title: 我的Vue文档
 ---
 
