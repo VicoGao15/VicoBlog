@@ -1,14 +1,14 @@
-name: Note-2024
-title: 日记-2024
-subtitle: '日记-2024 | Writed by VicoGao'
+name: LifeNote 
+title: 生活日记
+subtitle: '生活日记 | Writed by VicoGao'
 tags: 日记
 icon: /assets/wiki/note/icon.svg
 cover: /assets/wiki/note/icon.svg
 coverpage: false # 默认是 false
-description: 此文档用于记录2024年日记记录
+description: 此文档用于记录生活日记
 repo: vicogao15/vicoblog
 search:
-  filter: /wiki/aaa/
+  filter: /wiki/life-note/
   placeholder: 在 2024 中搜索...
 leftbar: 
   - tree
@@ -19,7 +19,7 @@ comments:
   service: beaudar
   beaudar:
     data-repo: vicoblog/vicoblog-comments
-base_dir: /wiki/aaa/
+base_dir: /wiki/life-note/
 tree:
   '首页':
     - IssueNote

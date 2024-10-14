@@ -63,9 +63,9 @@ banner: /assets/cover/computer.jpg
 | Beavers Be Dammed |  | 两河豚合作搬木头 | Free | 👦👧 |
 | 巫师3 |  | 不会玩这种魂类游戏 | 14.90 |  |
 | 战地风云5 |  |  | 15.96  |  |
-| 只只大冒险 | Biped | 感觉还不错 | 17.40 |  |
+| **只只大冒险** | Biped | 非常不错，低难度一点 | 17.40 | 😘😘 |
 | **双人成行** | It takes two | 十分Nice | 69.30 | 😘 |
-| 胡闹厨房2 | Overcooked2 | 十分考验手速 | 24.50 | 😘 |
+| **胡闹厨房2** | Overcooked2 | 十分考验手速 | 24.50 | 😘 |
 | WRC7 |  | 操作手感较真实 | 7 | 😘 |
 | 拳皇 | The King Of Fighters XIII | 童年的乐趣 | 13.6 |  |
 | 飙酷车神2 | The Crew 2 | 听说跟地平线一个档次 | 4.96 |  |
