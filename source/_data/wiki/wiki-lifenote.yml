@@ -1,4 +1,4 @@
-name: LifeNote 
+name: LifeNote
 title: 生活日记
 subtitle: '生活日记 | Writed by VicoGao'
 tags: 日记
@@ -8,7 +8,7 @@ coverpage: false # 默认是 false
 description: 此文档用于记录生活日记
 repo: vicogao15/vicoblog
 search:
-  filter: /wiki/life-note/
+  filter: /wiki/lifenote/
   placeholder: 在 2024 中搜索...
 leftbar: 
   - tree
@@ -19,7 +19,7 @@ comments:
   service: beaudar
   beaudar:
     data-repo: vicoblog/vicoblog-comments
-base_dir: /wiki/life-note/
+base_dir: /wiki/lifenote/
 tree:
   '首页':
     - IssueNote
