@@ -45,5 +45,5 @@ banner: /assets/cover/cover_qinghai.jpg
 {% endtimeline %}
 
 {% swiper effect:cards %}
-{% image /assets/PostImg/Appeon-QingHai/IMG_1.jpg %}
+{% image /assets/PostImg/Appeon-QingHai/IMG_1.png %}
 {% endswiper %}

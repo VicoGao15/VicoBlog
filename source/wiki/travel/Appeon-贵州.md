@@ -34,5 +34,5 @@ banner: /assets/cover/cover_千户苗寨.jpg
 {% endtimeline %}
 
 {% swiper effect:cards %}
-{% image /assets/PostImg/Appeon-GuiZhou/IMG_1.jpg %}
+{% image /assets/PostImg/Appeon-GuiZhou/IMG_1.png %}
 {% endswiper %}
