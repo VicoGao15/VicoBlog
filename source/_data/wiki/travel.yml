@@ -21,20 +21,22 @@ comments:
     data-repo: vicoblog/vicoblog-comments
 base_dir: /wiki/travel/
 tree:
-  '目录':
-    - 揭阳
+  '艾普阳':
     - Appeon-新疆
+    - Appeon-贵州
+    - Appeon-青海甘肃
     - xinjiang_team
-    - xinjiang_before
     - xinjiang_anpai
-    - HK-With-MF-Before
+  '个人出游':
+    - 揭阳
     - 香港
     - 汕头
     - 潮州
     - 韶关-丹霞山
     - 韶关-帽子峰
-    - Appeon-贵州
-    - Appeon-青海甘肃
+  '攻略':
+    - xinjiang_before
+    - HK-With-MF-Before
     
 
 

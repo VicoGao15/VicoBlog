@@ -1,5 +1,5 @@
 name: LifeNote
-title: 生活日记
+title: 日记-2024
 subtitle: '生活日记 | Writed by VicoGao'
 tags: 日记
 icon: /assets/wiki/note/icon.svg
@@ -21,8 +21,6 @@ comments:
     data-repo: vicoblog/vicoblog-comments
 base_dir: /wiki/lifenote/
 tree:
-  '首页':
-    - IssueNote
   '每月记录':
     - 2024-12
     - 2024-11
@@ -36,6 +34,8 @@ tree:
     - 2024-3
     - 2024-2
     - 2024-1
+  '动态issue日志':
+    - IssueNote
   '特别篇':
     - 传昌婚礼
     - 运动相机

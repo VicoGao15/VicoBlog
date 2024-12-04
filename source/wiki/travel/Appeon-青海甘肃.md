@@ -15,6 +15,7 @@ banner: /assets/cover/cover_qinghai.jpg
 
 <!-- node 2020.9.19 启程 -->
 从深圳宝安机场，搭乘飞机抵达甘肃张掖甘州机场。  
+第一次坐飞机，有点紧张。起飞后，第一次从高空看到学校全貌。  
 晚上在张掖市入住酒店，逛了甘州市场，买了十元四个的小黄弹簧表情包。  
 
 <!-- node 2020.9.20 七彩丹霞+胡杨林 -->
@@ -42,3 +43,8 @@ banner: /assets/cover/cover_qinghai.jpg
 晚上七点的航班，从西宁机场搭乘飞机回深圳了。此次行程完结！！！
 
 {% endtimeline %}
+
+{% swiper effect:cards %}
+{% image /assets/PostImg/HK-With-MF/HK_01.jpg %}
+{% image /assets/PostImg/HK-With-MF/HK_02.jpg %}
+{% endswiper %}
