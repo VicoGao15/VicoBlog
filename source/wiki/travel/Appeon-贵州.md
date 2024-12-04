@@ -9,7 +9,7 @@ banner: /assets/cover/cover_千户苗寨.jpg
 来自2024.12.03的回顾：  
 入职半年后的又一次旅游，真好。
 
-为期四天的贵州之旅开启。
+为期**四天**的贵州之旅开启。
 
 {% timeline %}
 
@@ -33,9 +33,6 @@ banner: /assets/cover/cover_千户苗寨.jpg
 
 {% endtimeline %}
 
-这次旅行，lisong也去了，之前的团建和青海旅游都没去，因为身体原因。贵阳是他从小长大的地方，茂名是他老家。谁能想到半年之后，就因为病情加重突然离世，真是唏嘘不已。回顾这次旅行，是他生前最后一次回到故乡，算是没有遗憾了。
-
 {% swiper effect:cards %}
-{% image /assets/PostImg/HK-With-MF/HK_01.jpg %}
-{% image /assets/PostImg/HK-With-MF/HK_02.jpg %}
+{% image /assets/PostImg/Appeon-GuiZhou/IMG_1.jpg %}
 {% endswiper %}

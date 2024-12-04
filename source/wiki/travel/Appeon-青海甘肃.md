@@ -9,7 +9,7 @@ banner: /assets/cover/cover_qinghai.jpg
 来自2024.12.03的回顾：  
 适逢大学毕业，初入Appeon，还在试用期，就遇公司年度旅游福利，就当毕业旅游。
 
-为期六天的甘肃青海之旅，正式开启。
+为期**六天**的甘肃青海之旅，正式开启。
 
 {% timeline %}
 
@@ -45,6 +45,5 @@ banner: /assets/cover/cover_qinghai.jpg
 {% endtimeline %}
 
 {% swiper effect:cards %}
-{% image /assets/PostImg/HK-With-MF/HK_01.jpg %}
-{% image /assets/PostImg/HK-With-MF/HK_02.jpg %}
+{% image /assets/PostImg/Appeon-QingHai/IMG_1.jpg %}
 {% endswiper %}
