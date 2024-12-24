@@ -1,5 +1,5 @@
-name: LifeNote
-title: 日记-2024
+name: twozerotwofive
+title: 日记-2025
 subtitle: '生活日记 | Writed by VicoGao'
 tags: 日记
 icon: /assets/wiki/note/icon.svg
@@ -8,8 +8,8 @@ coverpage: false # 默认是 false
 description: 此文档用于记录生活日记
 repo: vicogao15/vicoblog
 search:
-  filter: /wiki/lifenote/
-  placeholder: 在 2024 中搜索...
+  filter: /wiki/2025/
+  placeholder: 在 2025 中搜索...
 leftbar: 
   - tree
   - timeline_stellar_releases
@@ -19,29 +19,8 @@ comments:
   service: beaudar
   beaudar:
     data-repo: vicoblog/vicoblog-comments
-base_dir: /wiki/lifenote/
+base_dir: /wiki/2025/
 tree:
   '每月记录':
-    - 2024-总结
-    - 2024-12
-    - 2024-11
-    - 2024-10
-    - 2024-9
-    - 2024-8
-    - 2024-7
-    - 2024-6
-    - 2024-5
-    - 2024-4
-    - 2024-3
-    - 2024-2
-    - 2024-1
-  '动态issue日志':
-    - IssueNote
-  '特别篇':
-    - 台式主机配置
-    - Steam游戏
-    - 传昌婚礼
-    - 运动相机
-    - 国庆假期
-    - 2024-AfterNewYear
+    - 2025-1
     
