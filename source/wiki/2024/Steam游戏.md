@@ -1,6 +1,6 @@
 ---
 layout: wiki  # 使用wiki布局模板
-wiki: lifenote
+wiki: twofour
 title: Steam游戏汇总
 banner: /assets/cover/computer.jpg
 --- 
