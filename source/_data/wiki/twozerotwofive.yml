@@ -5,7 +5,7 @@ tags: 日记
 icon: /assets/wiki/note/icon.svg
 cover: /assets/wiki/note/icon.svg
 coverpage: false # 默认是 false
-description: 此文档用于记录生活日记
+description: 此文档用于记录2025年的生活日记
 repo: vicogao15/vicoblog
 search:
   filter: /wiki/2025/

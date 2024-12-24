@@ -1,14 +1,14 @@
-name: LifeNote
+name: twozerotwofour
 title: 日记-2024
 subtitle: '生活日记 | Writed by VicoGao'
 tags: 日记
 icon: /assets/wiki/note/icon.svg
 cover: /assets/wiki/note/icon.svg
 coverpage: false # 默认是 false
-description: 此文档用于记录生活日记
+description: 此文档用于记录2024年的生活日记
 repo: vicogao15/vicoblog
 search:
-  filter: /wiki/lifenote/
+  filter: /wiki/2024/
   placeholder: 在 2024 中搜索...
 leftbar: 
   - tree
@@ -19,7 +19,7 @@ comments:
   service: beaudar
   beaudar:
     data-repo: vicoblog/vicoblog-comments
-base_dir: /wiki/lifenote/
+base_dir: /wiki/2024/
 tree:
   '每月记录':
     - 2024-总结
@@ -43,5 +43,5 @@ tree:
     - 传昌婚礼
     - 运动相机
     - 国庆假期
-    - 2024-AfterNewYear
+    - 过年后遗症
     
