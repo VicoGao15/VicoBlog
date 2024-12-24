@@ -2,8 +2,8 @@ name: twofive
 title: 日记-2025
 subtitle: '生活日记 | Writed by VicoGao'
 tags: 日记
-icon: /assets/wiki/note/icon.svg
-cover: /assets/wiki/note/icon.svg
+icon: /assets/wiki/note/icon1.svg
+cover: /assets/wiki/note/icon1.svg
 coverpage: false # 默认是 false
 description: 此文档用于记录2025年的生活日记
 repo: vicogao15/vicoblog
