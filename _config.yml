@@ -110,3 +110,9 @@ deploy:
   repo: https://github.com/VicoBlog/vicoblog.github.io
   branch: main
   message: hexo d 一键部署
+
+encrypt: # hexo-blog-encrypt
+  abstract: 加密文章，输入密码浏览
+  message: 输入密码查看文章
+  wrong_pass_message: 抱歉, 所输入密码错误, 请再试试.
+  wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.

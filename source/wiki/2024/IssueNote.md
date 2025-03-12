@@ -17,6 +17,7 @@ beaudar:
     loading: false
     branch: main
 repo: vicoblog/notes
+password: 10080353
 ---
 
 {% tabs %}
