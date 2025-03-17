@@ -26,9 +26,10 @@ tree:
     - HexoTutorial
     - HexoQuickStart
     - StellarBeauty
-    - 文章加密
   '樱同学文档':
     - VikyTutorial
+  'Hexo插件':
+    - 文章加密
   '其他':
     - ImageHosting
   
