@@ -1,7 +1,7 @@
 ---
 layout: wiki  # 使用wiki布局模板
 wiki: hexo_stellar # 这是项目名
-title: 概念讲解
+title: 相关概念讲解
 date: 2024-08-07 13:40:22 
 banner: /assets/cover/cover_okr.jpg
 comments: true

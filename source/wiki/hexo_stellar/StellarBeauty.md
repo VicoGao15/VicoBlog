@@ -39,3 +39,10 @@ categories:
     <span id="runtime_span"></span>
     ```
 {% link https://sumorio.com/wiki/Hexo/201Webpage-beautification.html#%E6%B7%BB%E5%8A%A0%E8%BF%90%E8%A1%8C%E6%97%B6%E9%97%B4 参考(底部添加运行时间)  %}
+
+### Hexo插件推荐
+{% link https://www.tony-bro.com/posts/2249267013/index.html Hexo插件推荐 icon:/assets/wiki/uniapp/icon.svg %}
+
+### 使用Mermaid
+Mermaid 允许你使用文本和代码创建图表和可视化。
+{% link https://mermaid.nodejs.cn/intro/ 关于Mermaid icon:/assets/wiki/uniapp/icon.svg %}

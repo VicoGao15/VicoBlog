@@ -340,7 +340,6 @@ footer:
       - '[日记图床](https://github.com/VicoGao15/Notes)'
 
   content: | # 支持 Markdown 格式
-    落霞与孤鹜齐飞，秋水共长天一色。
     本站由 **[{author.name}](https://github.com/VicoGao15)** 使用 **[{theme.name} {theme.version}]({theme.tree})** 主题创建。
     <script type="text/javascript">
     function show_runtime() {

@@ -23,9 +23,10 @@ base_dir: /wiki/hexo_stellar/
 tree:
   '快速开始':
     - Concept
-    - StellarBeauty
-    - HexoQuickStart
     - HexoTutorial
+    - HexoQuickStart
+    - StellarBeauty
+    - 文章加密
   '樱同学文档':
     - VikyTutorial
   '其他':
