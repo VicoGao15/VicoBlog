@@ -12,5 +12,5 @@ banner: /assets/cover/gogogo.png
 #### 公司团游PDF
 {% link https://vicoblog-imgbed.netlify.app/ShareFile/新疆线路分车分组分房.xlsx 新疆线路分车分组分房 icon:/assets/PostImg/XinJiang_Before/xinjiang_pdf.png %}
 
-{% link https://vicoblog-imgbed.netlify.app/ShareFile/9月17日 新疆双飞8天 1号车出团通知书.pdf 9月17日 新疆双飞8天 1号车出团通知书 icon:/assets/PostImg/XinJiang_Before/xinjiang_pdf.png %}
+{% link https://vicoblog-imgbed.netlify.app/ShareFile/9月17日%20新疆双飞8天%201号车出团通知书.pdf 9月17日 新疆双飞8天 1号车出团通知书 icon:/assets/PostImg/XinJiang_Before/xinjiang_pdf.png %}
 
