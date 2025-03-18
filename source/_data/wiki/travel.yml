@@ -27,6 +27,8 @@ tree:
     - Appeon-青海甘肃
     - xinjiang_team
     - xinjiang_anpai
+  '个人2025'：
+    - 广州
   '个人2024':
     - 揭阳
     - 香港
@@ -38,6 +40,7 @@ tree:
   '攻略':
     - xinjiang_before
     - 香港-攻略
+    - 澳门-攻略
     
 
 
