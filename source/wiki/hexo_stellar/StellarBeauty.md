@@ -50,3 +50,7 @@ Mermaid 允许你使用文本和代码创建图表和可视化。
 ### 使用Hexo-tag-map
 Hexo 文章插入交互式地图！支持GoogleMap、高德地图、百度地图、Geoq地图、openstreetMap常规地图+卫星地图+卫星标注地图！一个强大的地图插件。
 {% link https://github.com/kuole-o/hexo-tag-map Hexo-tag-map icon:/assets/wiki/uniapp/icon.svg %}
+
+### 使用Echart
+插件hexo-tag-echarts-new
+{% link https://github.com/D-Sketon/hexo-tag-echarts-new Hexo-tag-map icon:/assets/wiki/uniapp/icon.svg %}
