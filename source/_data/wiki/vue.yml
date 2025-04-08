@@ -23,6 +23,7 @@ base_dir: /wiki/vue/
 tree:
   '开始':
     - index
+    - Vue页面监听键盘按键上下左右
 
 
   
