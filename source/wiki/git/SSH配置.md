@@ -23,5 +23,9 @@ title: ssh配置
 将ssh文件夹中的公钥（ id_rsa.pub）添加到Git服务器中（下面步骤是在GitHub管理平台上操作），在GitHub中点击右上角头像->Settings->SSH and GPG keys->New SSH key,将公钥（ id_rsa.pub）文件中内容复制粘贴到key中，然后点击Add SSH key就好啦！
 
 ##### 7.测试一下配置是否成功
+```
+ssh -T git@github.com
+```
+
+确认用户名正确即可。
 {% image /assets/PostImg/Wiki-Git/ssh_config_test.png %}
-显示如上就说明配置好啦！
