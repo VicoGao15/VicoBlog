@@ -21,8 +21,6 @@ comments:
     data-repo: vicoblog/vicoblog-comments
 base_dir: /wiki/uniapp/
 tree:
-  '开始':
-    - index
 
 
   
