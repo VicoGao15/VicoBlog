@@ -15,7 +15,7 @@ title: 文章html内容导出为Docv和Md文档
   
 
 ##### 2.使用
-
+```
 import htmlDocx from 'html-docx-js/dist/html-docx'
 import FileSaver from 'file-saver'
 
@@ -29,7 +29,7 @@ import FileSaver from 'file-saver'
     
    FileSaver.saveAs(converted, concept.header+'.docx')
   },
-
+```
   
 
 #### 导出为Markdown
@@ -41,10 +41,8 @@ import FileSaver from 'file-saver'
   
 
 ##### 2.使用
-
+```
 import TurndownService from 'turndown'
-
-  
 
 /\*将concept保存为md文件\*/
     saveConceptToMd(concept) {
@@ -57,3 +55,4 @@ import TurndownService from 'turndown'
       
       FileSaver.saveAs(converted, concept.header + '.md')
     },
+```
