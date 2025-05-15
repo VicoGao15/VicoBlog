@@ -1,0 +1,36 @@
+name: Travel
+title: 游记 - 我的游记
+subtitle: '我的游记 | Designed by VicoGao'
+tags: 游记
+icon: /assets/wiki/travel/icon.svg
+cover: /assets/wiki/travel/icon.svg
+coverpage: false # 默认是 false
+description: 此文档用于记录旅游、游玩的日记或者攻略
+repo: vicogao15/vicoblog
+search:
+  filter: /wiki/trevel/
+  placeholder: 在 travel 中搜索...
+leftbar: 
+  - tree
+  - timeline_stellar_releases
+  - related
+comment_title: '评论区仅供交流，有问题请提 [issue](https://github.com/vicoblog/vicoblog-comments/issues) 反馈。'
+comments:
+  service: beaudar
+  beaudar:
+    data-repo: vicoblog/vicoblog-comments
+base_dir: /wiki/travel/
+tree:
+  '新疆':
+    - xinjiang_before
+    - xinjiang_after
+  '香港':
+    - HK-With-MF-Before
+    - HK-With-MF
+  '汕头':
+    - ShanTou
+  '潮州':
+    - ChaoZhou
+
+
+  
