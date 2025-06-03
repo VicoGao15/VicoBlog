@@ -22,8 +22,10 @@ comments:
 base_dir: /wiki/python/
 tree:
   '开始':
-    - index
-    - 基础知识
+    - 基础
+    - 函数
+    - 模块
+    - Pytest
 
 
   
