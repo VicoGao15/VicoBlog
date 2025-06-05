@@ -1,7 +1,7 @@
 ---
 layout: wiki  # 使用wiki布局模板
 wiki: python # 这是项目名
-title: Pytest自动化测试
+title: Pytest
 ---
 
 [Pytest使用手册](https://learning-pytest.readthedocs.io/zh/latest/doc/intro/getting-started.html)
