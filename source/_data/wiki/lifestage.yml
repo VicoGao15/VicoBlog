@@ -1,0 +1,34 @@
+name: lifestage
+title: lifestage
+subtitle: '我的人生阶段记录 | Writed by VicoGao'
+tags: 文档
+icon: /assets/wiki/lifestage.svg
+cover: /assets/wiki/lifestage.svg
+coverpage: false # 默认是 false
+description: 此用于记录人生各阶段的生活、工作、等内容
+repo: vicogao15/vicoblog
+search:
+  filter: /wiki/lifestage/
+  placeholder: 在 lifestage 中搜索...
+leftbar: 
+  - tree
+  - timeline_stellar_releases
+  - related
+comment_title: '评论区仅供交流，有问题请提 [issue](https://github.com/vicoblog/vicoblog-comments/issues) 反馈。'
+comments:
+  service: beaudar
+  beaudar:
+    data-repo: vicoblog/vicoblog-comments
+base_dir: /wiki/lifestage/
+tree:
+  '开始':
+    - 学前
+    - 麻茂小学
+    - 电白四中
+    - 电白一中
+    - 深圳大学
+    - 艾普阳
+    - 深圳
+
+
+  
