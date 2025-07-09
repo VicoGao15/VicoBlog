@@ -21,7 +21,7 @@ select * from students where name = "Vico" and gender = "M";
 只返回需要的列数据，而不是所有的列  
 `select id,name,score from students;`
 
-列名重命名：score重命名为point  
+列名的别名：score重命名为point  
 `select id,score points,name from student;`
 
 #### 排序
@@ -147,7 +147,7 @@ select
   c.id cid,
   c.name cname
   from students s, classes c
-  where s,gender = "M" and s.class_id = c.id;
+  where s.gender = "M" and s.class_id = c.id;
 ```
 
 #### 连接查询
