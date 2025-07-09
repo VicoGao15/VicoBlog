@@ -1,5 +1,5 @@
 ---
-title: SQL - 其他关键点
+title: SQL - 关键字
 date: 2025-7-08 11:00:00
 category:
   - 数据库
@@ -13,7 +13,7 @@ like在where子句中，用于模糊查询。
 - _ 下划线表示，单个字符
 ```
 ... where name like '高％'  －－名字以高开头，姓高
-... where name like '高_'   －－姓高，且名字为三个字
+... where name like '高_'   －－姓高，且名字为两个字
 ... where name like '%锋'   －－以锋结尾
 ... where name like '％锋％' －－名字中含有锋
 ```
