@@ -6,15 +6,17 @@
 
 IDE专项测试：
 － PC/App性能测试
-－ 安装测试
+－ 稳定性测试
+－ 安装测试、兼容性测试
 － 弱网测试、网络测试
 － 安全测试（病毒测试）
 
 
 工具：
-－ postman
-－ fiddler
+－ postman 
+－ fiddler 抓包
 － 禅道/Gitlab
+－ Linux系统常用命令，操作MySQL数据库
 
 
 自动化：
