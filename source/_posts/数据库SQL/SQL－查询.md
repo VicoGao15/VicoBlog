@@ -3,7 +3,7 @@ title: SQL - 查询
 date: 2025-7-08 11:00:00
 category:
   - 数据库
-tags: 面试
+tags: [面试]
 banner: /assets/cover/doc.jpg
 ---
 

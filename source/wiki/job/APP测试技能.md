@@ -2,7 +2,6 @@
 layout: wiki  # 使用wiki布局模板
 wiki: job # 这是项目名
 title: APP测试技能
-tags: 面试
 banner: /assets/cover/note.jpg
 ---
 
