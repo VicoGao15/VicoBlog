@@ -1,9 +1,17 @@
+---
+layout: wiki  # 使用wiki布局模板
+wiki: job # 这是项目名
+title: APP测试技能
+tags: 面试
+banner: /assets/cover/note.jpg
+---
+
 测试必备技能：
 － 测试理论（前司的测试流程和理论）
 － Python
 － 数据库/SQL
 － 各数据库的区别
-
+  
 
 IDE专项测试：
 － PC/App性能测试

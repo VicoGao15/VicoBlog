@@ -4,6 +4,7 @@ wiki: python # 这是项目名
 title: Pytest
 category:
   - Python
+tags: 面试
 ---
 
 [Pytest使用手册](https://learning-pytest.readthedocs.io/zh/latest/doc/intro/getting-started.html)
