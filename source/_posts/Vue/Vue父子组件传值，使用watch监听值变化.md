@@ -1,7 +1,8 @@
 ---
 layout: wiki  # 使用wiki布局模板
 wiki: vue # 这是项目名
-title: Vue父子组件传值，使用watch监听值变化
+title: Vue父子组件传值，
+date: 2024-7-08 11:00:00
 category:
   - Vue
 ---
