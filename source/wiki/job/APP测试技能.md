@@ -13,7 +13,7 @@ banner: /assets/cover/note.jpg
   
 
 IDE专项测试：
-－ PC/App性能测试
+－ PC性能测试－LoadRunner、App性能测试－Monkey
 － 稳定性测试
 － 安装测试、兼容性测试
 － 弱网测试、网络测试
