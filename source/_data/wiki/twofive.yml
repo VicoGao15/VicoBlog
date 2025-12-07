@@ -1,11 +1,11 @@
 name: twofive
-title: 日记-2025
+title: 记录-2025
 subtitle: '生活日记 | Writed by VicoGao'
 tags: 日记
-icon: /assets/wiki/note/grade_25.svg
-cover: /assets/wiki/note/grade_25.svg
-coverpage: false # 默认是 false
-description: 此文档用于记录2025年的生活日记
+icon: /assets/wiki/note/2025.png
+cover: /assets/wiki/note/2025.png
+coverpage: true # 默认是 false
+description: 此文档用于记录2025年的经历
 repo: vicogao15/vicoblog
 search:
   filter: /wiki/2025/
@@ -22,6 +22,10 @@ comments:
 base_dir: /wiki/2025/
 tree:
   '每月记录':
+    - 2025-12
+    - 2025-11
+    - 2025-8
+    - 2025-7
     - 2025-6
     - 2025-5
     - 2025-4
@@ -29,6 +33,7 @@ tree:
     - 2025-2
     - 2025-1
   '其他':
+    - 搬家
     - 过年准备
     - 过年假期
     - 2025目标
