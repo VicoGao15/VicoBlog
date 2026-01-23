@@ -1,9 +1,9 @@
-name: twofive
+name: 2026
 title: 记录-2026
 subtitle: '生活日记 | Writed by VicoGao'
 tags: 日记
-icon: /assets/wiki/note/2026.png
-cover: /assets/wiki/note/2026.png
+icon: /assets/wiki/note/grade_26.svg
+cover: /assets/wiki/note/grade_26.svg
 coverpage: true # 默认是 false
 description: 此文档用于记录2026年的经历
 repo: vicogao15/vicoblog
@@ -23,3 +23,4 @@ base_dir: /wiki/2026/
 tree:
   '每月记录':
     - 2026-1
+    - 过年

@@ -172,7 +172,7 @@ article:
   # 如果没有指定横幅，是否根据 tags 作为关键词搜索横幅图片？
   auto_banner: false # search from https://source.unsplash.com/
   # 如果没有指定 excerpt 和 description，将自动取多长的内容作为文章摘要？
-  auto_excerpt: 128
+  auto_excerpt: 200
   # 分类颜色
   category_color:
     '探索号': '#f44336'
@@ -325,10 +325,10 @@ footer:
       - '[建站记录](/log)'
       - '[关于本站](/about)'
     'Wiki文档':
-      - '[日记](/wiki/note)'
-      - '[游记](/wiki/travel)'
-      - '[Git](/wiki/git)'
-      - '[Hexo-Stellar](/wiki/hexo_stellar)'
+      - '[游记](/wiki/travel/ToBeComing.html)'
+      - '[2026](/wiki/2026/2026-1.html)'
+      - '[2025](/wiki/2025/2025年终总结.html)'
+      - '[2024](/wiki/2024/2024-总结.html)'
     '文档部署':
       - '[Hexo](https://hexo.io)'
       - '[Stellar](https://xaoxuu.com/wiki/stellar/#start)'
@@ -602,9 +602,8 @@ style:
     codeblock: 0.8125rem # 13px
   font-family:
     logo: 'system-ui, "Microsoft Yahei", "Segoe UI", -apple-system, Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif'
-    body: '"Noto Serif SC", "Microsoft Yahei", sans-serif'
-    code: 'Consolas'
-    codeblock: 'Consolas'
+    body: '"Noto Serif SC", "Microsoft Yahei",..., sans-serif'
+    codeblock: 'Menlo, Monaco, Consolas, system-ui, monospace, sans-serif'
   text-align: left
   prefix:
     h2: https://api.iconify.design/ci:heading-h2.svg
@@ -637,9 +636,9 @@ style:
     start: 'linear-gradient(to right, hsl(215, 95%, 64%), hsl(195, 95%, 60%), hsl(165, 95%, 56%), hsl(165, 95%, 56%), hsl(195 95% 60%), hsl(215, 95%, 64%))'
   leftbar:
     # 可以设置：纯色/渐变色/图片作为背景
-    # background: var(--leftbar-bg)
-    background-image: url(/assets/background/leftbar.png)
-    blur-px: 100px
+    background: var(--leftbar-bg)
+    # background-image: url(/assets/background/leftbar.png)
+    blur-px: 200px
     blur-bg: var(--alpha75)
   paginator:
     prev: https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/arrow/f049bbd4e88ec.svg
@@ -647,7 +646,7 @@ style:
   error_page: https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/404/1c830bfcd517d.svg
   site:
     background-image: #'url(https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.14/image/site-bg1@small.webp)' # 未完全适配，慎用
-    blur-px: 100px
+    blur-px: 200px
     blur-bg: var(--alpha75)
 
 

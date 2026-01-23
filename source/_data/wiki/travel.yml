@@ -21,6 +21,8 @@ comments:
     data-repo: vicoblog/vicoblog-comments
 base_dir: /wiki/travel/
 tree:
+  '想去的地方':
+    - ToBeComing
   '-2025-':
     - 清远-漂流
     - 潮州-凤凰山

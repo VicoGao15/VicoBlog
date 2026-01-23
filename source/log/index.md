@@ -11,7 +11,6 @@ comments: true
 
 {% hashtag 博客搭建 %}
 {% hashtag 教程 %}
-测试！
 
 {% okr 目标 %}
 2024年的小目标：完善 VicoBlog
@@ -52,7 +51,7 @@ Hexo配置完善
 {% checkbox 修改文章默认url( _config.yml中设置 permalink: :title/ )，之后生成文章的 url 中就没有日期了 checked:true %}
 {% checkbox 侧边栏背景图片 checked:true %}
 
-<!-- okr kr5 percent:0.95 status:unfinished -->
+<!-- okr kr5 percent:1 -->
 Stellar主题中有很多好看的组件和相关配置，在VicoBlog中使用
 {% checkbox 使用评论组件：Beaudar checked:true color:green %}
 {% checkbox 使用timeline时间线组件 checked:true color:green %}
@@ -68,10 +67,10 @@ Stellar主题中有很多好看的组件和相关配置，在VicoBlog中使用
 {% checkbox timeline获取github issue动态数据(REST API速率限制的问题) checked:true color:green %}
 {% checkbox 页脚添加运行时间 checked:true color:green %}
 
-<!-- okr kr6 percent:0.2 status:unfinished -->
+<!-- okr kr6 percent:1 -->
 从有道云笔记中迁移部分笔记到博客
-{% checkbox 各城市的游玩攻略、总结 %}
-{% checkbox 日记 %}
-{% checkbox 其他记录 %}
+{% checkbox checked:true 各城市的游玩攻略、总结 %}
+{% checkbox checked:true 日记 %}
+{% checkbox checked:true 其他记录 %}
 
 {% endokr %}
