@@ -2,6 +2,7 @@
 layout: wiki  # 使用wiki布局模板
 wiki: uniapp # 这是项目名
 title: 配置内网的Mobile模拟器测试环境（HBuilder+微信小程序）
+date: 2025-1-01 11:00:00
 category:
   - Uniapp
 ---
