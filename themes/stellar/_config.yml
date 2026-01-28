@@ -638,15 +638,15 @@ style:
     # 可以设置：纯色/渐变色/图片作为背景
     background: var(--leftbar-bg)
     # background-image: url(/assets/background/leftbar.png)
-    blur-px: 200px
+    blur-px: 100px
     blur-bg: var(--alpha75)
   paginator:
     prev: https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/arrow/f049bbd4e88ec.svg
     next: https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/arrow/064b95430caf4.svg
   error_page: https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/404/1c830bfcd517d.svg
   site:
-    background-image: #'url(https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.14/image/site-bg1@small.webp)' # 未完全适配，慎用
-    blur-px: 200px
+    background-image: url(https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.14/image/site-bg1@small.webp) # 未完全适配，慎用
+    blur-px: 2px
     blur-bg: var(--alpha75)
 
 
