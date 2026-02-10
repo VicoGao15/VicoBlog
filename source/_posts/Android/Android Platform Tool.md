@@ -12,10 +12,10 @@ ndroid SDK Platform-Tools 是 Android SDK 的一个组件。它包含与 Android
 ### 下载解压
 [官网下载链接](https://developer.android.com/tools/releases/platform-tools?hl=zh-cn)  
 解压到本地目录：
-![alt text](image.png)
+![alt text](/assets/PostImg/android/image.png)
 
 ### 配置环境变量
-![alt text](image-1.png)
+![alt text](/assets/PostImg/android/image-1.png)
 
 ### 测试
-![alt text](image-2.png)
+![alt text](/assets/PostImg/android/image-2.png)
