@@ -601,9 +601,9 @@ style:
     code: 85% # 相较于其所在行的文本大小，建议用百分比
     codeblock: 0.8125rem # 13px
   font-family:
-    logo: 'system-ui, "Microsoft Yahei", "Segoe UI", -apple-system, Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif'
-    body: '"Noto Serif SC", "Microsoft Yahei",..., sans-serif'
-    codeblock: 'Menlo, Monaco, Consolas, system-ui, monospace, sans-serif'
+    logo: '"LXGW WenKai Lite", system-ui, "Segoe UI", -apple-system, Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif'
+    body: '"LXGW WenKai Lite", "Noto Serif SC", sans-serif'
+    codeblock: '"LXGW WenKai Lite", Menlo, Monaco, Consolas, system-ui, monospace, sans-serif'
   text-align: left
   prefix:
     h2: https://api.iconify.design/ci:heading-h2.svg
