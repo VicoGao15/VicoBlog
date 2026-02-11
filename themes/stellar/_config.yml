@@ -50,21 +50,20 @@ menubar:
       title: 关于Vico
       url: /about/
 
-
 ######## Main ########
 # 站点主结构树
 site_tree:
   # -- 列表类页面 -- #
   # 主页配置
   home:
-    leftbar: welcome, recent
-    rightbar: 
+    leftbar: welcome,tagcloud
+    rightbar: ghuser,recent
   # 博客列表页配置
   index_blog:
-    base_dir: blog # 只影响自动生成的页面路径
+    base_dir: blog,categories # 只影响自动生成的页面路径
     menu_id: post # 未在 front-matter 中指定 menu_id 时，layout 为 post 的页面默认使用这里配置的 menu_id
-    leftbar: welcome, recent # for categories/tags/archives
-    rightbar: 
+    leftbar: welcome,tagcloud # for categories/tags/archives
+    rightbar: ghuser,recent
     nav_tabs:  # 近期发布 分类 标签 专栏 归档 and ...
       # '朋友文章': /friends/rss/
   # 博客专栏列表页配置
@@ -76,7 +75,7 @@ site_tree:
     base_dir: wiki # 只影响自动生成的页面路径
     menu_id: wiki # 未在 front-matter 中指定 menu_id 时，layout 为 wiki 的页面默认使用这里配置的 menu_id
     leftbar: related, recent # for wiki
-    rightbar: 
+    rightbar: ghuser
     nav_tabs:
       # 'more': https://github.com/xaoxuu
   # -- 内容类页面 -- #
@@ -84,7 +83,7 @@ site_tree:
   post:
     menu_id: post # 未在 front-matter 中指定 menu_id 时，layout 为 post 的页面默认使用这里配置的 menu_id
     leftbar: related, recent # for pages using 'layout:post'
-    rightbar: ghrepo, toc
+    rightbar: ghrepo, toc,ghuser
   # 博客专栏文章内页配置
   topic:
     menu_id: post
@@ -92,14 +91,14 @@ site_tree:
   wiki:
     menu_id: wiki # 未在 front-matter 中指定 menu_id 时，layout 为 wiki 的页面默认使用这里配置的 menu_id
     leftbar: tree, related, recent # for wiki
-    rightbar: ghrepo, toc
+    rightbar: ghuser, toc
   # 笔记本列表页配置
   notebooks:
     base_dir: notebooks # 笔记本列表页的路径。以及未指定 base_dir 的笔记本的路径前缀。
     menu_id: notebooks # 笔记本列表页高亮的主导航栏菜单按钮。
     # 笔记本列表页的左侧栏和右侧栏。
     leftbar: recent # recent within all notebooks
-    rightbar: null
+    rightbar: ghuser
   # 笔记列表页配置
   notes:
     # 笔记列表页和笔记页高亮的主导航栏菜单按钮。
@@ -108,20 +107,20 @@ site_tree:
     menu_id: notebooks
     # 笔记列表页的左侧栏和右侧栏。可以在笔记本 yaml 的 leftbar 和 rightbar 字段中覆盖此参数。
     leftbar: tagtree, recent # recent of current notebook
-    rightbar: null
+    rightbar: ghuser
   # 笔记页配置
   note:
     # 笔记页的左侧栏和右侧栏
     # 可以在笔记本 yaml 的 note_leftbar 和 note_rightbar 字段中覆盖此参数。
     # 可以在笔记的 front-matter/leftbar 和 rightbar 字段中覆盖此参数。
     leftbar: tagtree, recent # recent of current notebook
-    rightbar: toc
+    rightbar: ghuser,toc
   # 作者信息配置
   author:
     base_dir: author # 只影响自动生成的页面路径
     menu_id: post
     leftbar: recent, timeline
-    rightbar: timeline
+    rightbar: ghuser
   # 错误页配置
   error_page:
     menu_id: post
