@@ -20,6 +20,7 @@ comments:
   beaudar:
     data-repo: vicoblog/vicoblog-comments
 base_dir: /wiki/travel/
+share: true
 tree:
   '想去的地方':
     - ToBeComing

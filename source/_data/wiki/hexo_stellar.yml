@@ -20,6 +20,7 @@ comments:
   beaudar:
     data-repo: vicoblog/vicoblog-comments
 base_dir: /wiki/hexo_stellar/
+share: true
 tree:
   '快速开始':
     - Concept
