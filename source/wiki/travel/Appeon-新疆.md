@@ -2,6 +2,7 @@
 layout: wiki  # 使用wiki布局模板
 wiki: travel # 这是项目名
 title: Appeon-新疆 # 这是标题名称
+date: 2024-9-25
 banner: /assets/cover/魔鬼城.jpg
 ---
 

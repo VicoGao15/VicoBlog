@@ -55,7 +55,7 @@ tagcloud:
   title: 标签云
   # 标签云配置
   min_font: 12
-  max_font: 24
+  max_font: 20
   amount: 100
   orderby: name
   order: 1 # 1, sac 升序；-1, desc 降序
