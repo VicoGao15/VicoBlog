@@ -112,7 +112,5 @@ NANO_BANANA_PRO_HIGT_URL = 'https://nano.580ai.net/v1beta/models/gemini-3-pro-im
 - 默认情况下，模型会返回文本和图片响应（即 response_modalities=['Text', 'Image']）。可以使用 response_modalities=['Image'] 将响应配置为仅返回图片而不返回文本
 - 默认情况下，模型会使输出图片的大小与输入图片的大小保持一致，否则会生成 1:1 的正方形
 - 支持的分辨率，参考官方
-{% Pro支持分辨率 /assets/PostImg/PoloAPI/Gemini_3_Pro_ratio.png %}
 
 ### 六、模型区分
-{% Banana模型比较 /assets/PostImg/PoloAPI/Gemini_mode_compare.png %}
