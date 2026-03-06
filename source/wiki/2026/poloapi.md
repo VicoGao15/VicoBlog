@@ -10,6 +10,9 @@ banner: /assets/cover/note.jpg
 13500042947@163.com/@Vico202204
 
 ### 二、文档
+
+自定义apifox文档：https://580ai.apifox.cn/
+
 apifox接口文档：https://polodaili.apifox.cn
 
 Banana API调用参考文档：https://www.yuque.com/yuqueyonghumhm84z/rkuauy/yre0s8d92pl1lv3p?singleDoc#
@@ -112,5 +115,3 @@ NANO_BANANA_PRO_HIGT_URL = 'https://nano.580ai.net/v1beta/models/gemini-3-pro-im
 - 默认情况下，模型会返回文本和图片响应（即 response_modalities=['Text', 'Image']）。可以使用 response_modalities=['Image'] 将响应配置为仅返回图片而不返回文本
 - 默认情况下，模型会使输出图片的大小与输入图片的大小保持一致，否则会生成 1:1 的正方形
 - 支持的分辨率，参考官方
-
-### 六、模型区分
